@@ -1,12 +1,46 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar singe-navbar">
 
-    <div class="container-fluid">
+    <!-- Esquerda -->
+    <div class="navbar-left">
 
-        <a class="navbar-brand" href="#">
+        <button class="navbar-icon" id="menu-toggle">
+            <img src="{{ url_for('static', filename='img/icons/menu.svg') }}" alt="Menu">
+        </button>
 
-            SINGE
+        <img
+            src="{{ url_for('static', filename='img/logos/logo-navbar.svg') }}"
+            alt="SINGE"
+            class="navbar-logo">
 
-        </a>
+    </div>
+
+    <!-- Direita -->
+    <div class="navbar-right">
+
+        <div class="search-box">
+
+            <input
+                type="text"
+                placeholder="Pesquisar..."
+                class="search-input">
+
+            <button class="search-button">
+
+                <img
+                    src="{{ url_for('static', filename='img/icons/search.svg') }}"
+                    alt="Pesquisar">
+
+            </button>
+
+        </div>
+
+        <button class="navbar-icon">
+
+            <img
+                src="{{ url_for('static', filename='img/icons/user.svg') }}"
+                alt="Perfil">
+
+        </button>
 
     </div>
 

@@ -1,13 +1,147 @@
-body{
+.singe-navbar{
 
-    background:#f4f6f9;
+    height:65px;
 
-    font-family:Arial, Helvetica, sans-serif;
+    background:#374151;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    padding:0 20px;
 
 }
 
-h1{
+/* Lado esquerdo */
 
-    color:#0d6efd;
+.navbar-left{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:18px;
+
+}
+
+/* Lado direito */
+
+.navbar-right{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:15px;
+
+}
+
+/* Logo */
+
+.navbar-logo{
+
+    height:40px;
+
+}
+
+/* Ícones */
+
+.navbar-icon{
+
+    background:none;
+
+    border:none;
+
+    cursor:pointer;
+
+    padding:0;
+
+}
+
+.navbar-icon img{
+
+    width:30px;
+
+    height:30px;
+
+}
+
+/* Caixa de pesquisa */
+
+.search-box{
+
+    position:relative;
+
+    width:250px;
+
+    height:45px;
+
+}
+
+/* Campo */
+
+.search-input{
+
+    width:100%;
+
+    height:100%;
+
+    border:none;
+
+    border-radius:24px;
+
+    background:#F3F3F3;
+
+    padding-left:18px;
+
+    padding-right:40px;
+
+    font-family:"TT Octosquares Trl Md", sans-serif;
+
+    font-size:14px;
+
+    outline:none;
+
+}
+
+/* Botão da lupa */
+
+.search-button{
+
+    position:absolute;
+
+    top:50%;
+
+    right:5px;
+
+    transform:translateY(-50%);
+
+    width:32px;
+
+    height:32px;
+
+    border:none;
+
+    background:transparent;
+
+    cursor:pointer;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+/* Ícone da lupa */
+
+.search-button img{
+
+    width:23px;
+
+    height:23px;
 
 }
