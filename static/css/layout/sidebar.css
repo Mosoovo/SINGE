@@ -1,12 +1,14 @@
-.sidebar{
+/* ==========================
+   SIDEBAR
+========================== */
+
+.sidebar {
+
     position: fixed;
-
     top: 65px;
-
-    left: 0px;
+    left: 0;
 
     width: 65px;
-
     height: calc(100vh - 65px);
 
     background: #1F2937;
@@ -14,81 +16,165 @@
     border-radius: 5px;
 
     display: flex;
-
     flex-direction: column;
 
     padding: 12px;
 
-    box-shadow: 0 8px 20px rgba(0,0,0,.15);
-}
-.sidebar-header{
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .15);
 
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-    width:100%;
-
-    padding-bottom:18px;
-
-    margin-bottom:18px;
-
-    border-bottom:1px solid rgba(255,255,255,.08);
+    transition: width .25s ease;
 
 }
-.sidebar-menu{
 
-    width:100%;
+/* ==========================
+   SIDEBAR EXPANDIDA
+========================== */
 
-    display:flex;
+.sidebar.expanded {
 
-    flex-direction:column;
-
-    gap:10px;
-
-}
-.nav-item{
-
-    width:48px;
-
-    height:48px;
-
-    margin:0 auto;
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-    border-radius:12px;
-
-    transition:all .2s ease;
+    width: 260px;
 
 }
-.nav-item:hover{
 
-    background:rgba(22,119,200,.15);
+/* ==========================
+   MENU
+========================== */
 
-}
-.label{
+.sidebar-menu {
 
-    display:none;
+    display: flex;
+    flex-direction: column;
 
-}
-.nav-item img{
+    width: 100%;
 
-    width:24px;
-
-    height:24px;
-
-    object-fit:contain;
+    gap: 10px;
 
 }
-.indicator{
 
-    display:none;
+/* ==========================
+   ITEM
+========================== */
+
+.nav-item {
+
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    height: 48px;
+
+    padding: 0 12px;
+
+    gap: 12px;
+
+    border-radius: 12px;
+
+    color: #FFFFFF;
+    text-decoration: none;
+
+    transition: .2s;
+
+}
+
+.nav-item:hover {
+
+    background: rgba(22,119,200,.15);
+
+}
+
+/* ==========================
+   INDICADOR
+========================== */
+
+.indicator {
+
+    width: 4px;
+    height: 28px;
+
+    border-radius: 999px;
+
+    background: #374151;
+
+    opacity: 0;
+
+    flex-shrink: 0;
+
+    transition: .2s;
+
+}
+
+.nav-item.active .indicator {
+
+    background: #00A878;
+
+    opacity: 1;
+
+}
+
+/* ==========================
+   ÍCONE
+========================== */
+
+.nav-icon {
+
+    width: 24px;
+    height: 24px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-shrink: 0;
+
+}
+
+.nav-icon img {
+
+    width: 24px;
+    height: 24px;
+
+}
+
+/* ==========================
+   TEXTO
+========================== */
+
+.nav-label {
+
+    display: none;
+
+    white-space: nowrap;
+
+    color: #FFFFFF;
+
+    font-size: 15px;
+
+    font-family: "TT Octosquares Trl Md", sans-serif;
+
+}
+
+.sidebar.expanded .nav-label {
+
+    display: block;
+
+}
+
+/* ==========================
+   SETA
+========================== */
+
+.nav-arrow {
+
+    margin-left: auto;
+
+    width: 16px;
+
+    display: none;
+
+}
+
+.sidebar.expanded .nav-arrow {
+
+    display: block;
 
 }

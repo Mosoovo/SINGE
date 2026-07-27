@@ -1,45 +1,67 @@
 <aside class="sidebar collapsed">
 
-    <div class="sidebar-header">
-
-        <button class="sidebar-toggle" id="sidebar-toggle">
-
-            <img src="{{ url_for('static', filename='design-system/icons/menu.svg') }}"
-                 alt="Menu">
-
-        </button>
-
-    </div>
-
     <nav class="sidebar-menu">
+
+        <!-- Dashboard -->
 
         <a href="#" class="nav-item active">
 
             <span class="indicator"></span>
 
-            <img src="{{ url_for('static', filename='design-system/icons/menu.svg') }}">
+            <span class="nav-icon">
 
-            <span class="label">Dashboard</span>
+                <img src="{{ url_for('static', filename='design-system/icons/menu.svg') }}"
+                     alt="Dashboard">
+
+            </span>
+
+            <span class="nav-label">
+                Dashboard
+            </span>
+
+            <span class="nav-arrow"></span>
 
         </a>
+
+        <!-- Alunos -->
 
         <a href="#" class="nav-item">
 
             <span class="indicator"></span>
 
-            <img src="{{ url_for('static', filename='design-system/icons/user.svg') }}">
+            <span class="nav-icon">
 
-            <span class="label">Alunos</span>
+                <img src="{{ url_for('static', filename='design-system/icons/user.svg') }}"
+                     alt="Alunos">
+
+            </span>
+
+            <span class="nav-label">
+                Alunos
+            </span>
+
+            <span class="nav-arrow"></span>
 
         </a>
+
+        <!-- Pesquisa -->
 
         <a href="#" class="nav-item">
 
             <span class="indicator"></span>
 
-            <img src="{{ url_for('static', filename='design-system/icons/search.svg') }}">
+            <span class="nav-icon">
 
-            <span class="label">Pesquisar</span>
+                <img src="{{ url_for('static', filename='design-system/icons/search.svg') }}"
+                     alt="Pesquisar">
+
+            </span>
+
+            <span class="nav-label">
+                Pesquisar
+            </span>
+
+            <span class="nav-arrow"></span>
 
         </a>
 

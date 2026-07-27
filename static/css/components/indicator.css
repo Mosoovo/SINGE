@@ -1,5 +1,15 @@
 .indicator{
 
-    display:none;
+    width:4px;
+
+    height:28px;
+
+    border-radius:999px;
+
+    background:#374151;
+
+    opacity:0;
+
+    transition:.2s;
 
 }
