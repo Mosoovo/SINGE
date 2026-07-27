@@ -1,180 +1,216 @@
-/* ==========================
+/* ==========================================
    SIDEBAR
-========================== */
+========================================== */
 
 .sidebar {
 
     position: fixed;
-    top: 65px;
-    left: 0;
 
-    width: 65px;
+    top: 65px;
+    left: 0px;
+
+    width: 72px;
     height: calc(100vh - 65px);
 
     background: #1F2937;
 
-    border-radius: 5px;
+    border-radius: 0 16px 16px 0;
 
     display: flex;
     flex-direction: column;
 
     padding: 12px;
 
-    box-shadow: 0 8px 20px rgba(0, 0, 0, .15);
+    box-shadow: 0 8px 20px rgba(0,0,0,.15);
 
     transition: width .25s ease;
 
 }
 
-/* ==========================
+/* ==========================================
    SIDEBAR EXPANDIDA
-========================== */
+========================================== */
 
-.sidebar.expanded {
+.sidebar.expanded{
 
-    width: 260px;
+    width:260px;
 
 }
 
-/* ==========================
+/* ==========================================
    MENU
-========================== */
+========================================== */
 
-.sidebar-menu {
+.sidebar-menu{
 
-    display: flex;
-    flex-direction: column;
+    display:flex;
 
-    width: 100%;
+    flex-direction:column;
 
-    gap: 10px;
+    gap:8px;
 
 }
 
-/* ==========================
+/* ==========================================
    ITEM
-========================== */
+========================================== */
 
-.nav-item {
+.nav-item{
 
-    display: flex;
-    align-items: center;
+  position: relative;
 
-    width: 100%;
-    height: 48px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 
-    padding: 0 12px;
+    width:100%;
+    height:48px;
 
-    gap: 12px;
+    padding:0;
 
-    border-radius: 12px;
+    border-radius:12px;
 
-    color: #FFFFFF;
-    text-decoration: none;
+    color:#FFFFFF;
+    text-decoration:none;
 
-    transition: .2s;
-
-}
-
-.nav-item:hover {
-
-    background: rgba(22,119,200,.15);
+    transition:.2s;
 
 }
 
-/* ==========================
+.nav-item:hover{
+
+    background:rgba(22,119,200,.15);
+    transform:translateX(0px);
+}
+
+/* ==========================================
    INDICADOR
-========================== */
+========================================== */
 
-.indicator {
+.sidebar-indicator{
 
-    width: 4px;
-    height: 28px;
+    width:4px;
+    height:28px;
 
-    border-radius: 999px;
+    border-radius:999px;
 
-    background: #374151;
+    background:#374151;
 
-    opacity: 0;
+    opacity:1;
 
-    flex-shrink: 0;
+    margin-right:12px;
 
-    transition: .2s;
+    flex-shrink:0;
+
+    transition:.2s;
+
+}
+/* Indicadores alternados */
+
+.nav-item:nth-child(odd) .sidebar-indicator{
+
+    background:#0057B8;
 
 }
 
-.nav-item.active .indicator {
+.nav-item:nth-child(even) .sidebar-indicator{
 
-    background: #00A878;
+    background:#374151;
+    
+}
+/* Indicador selecionado */
 
-    opacity: 1;
+.nav-item.active .sidebar-indicator{
+
+    background:#00A878;
 
 }
 
-/* ==========================
+/* ==========================================
    ÍCONE
-========================== */
+========================================== */
 
-.nav-icon {
+.nav-icon{
 
-    width: 24px;
-    height: 24px;
+    width:24px;
+    min-width:24px;
+    height:24px;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display:flex;
 
-    flex-shrink: 0;
+    justify-content:center;
 
-}
-
-.nav-icon img {
-
-    width: 24px;
-    height: 24px;
+    align-items:center;
 
 }
 
-/* ==========================
+.nav-icon img{
+
+    width:24px;
+    height:24px;
+
+    display:block;
+
+}
+
+/* ==========================================
    TEXTO
-========================== */
+========================================== */
 
-.nav-label {
+.nav-label{
 
-    display: none;
+    opacity:0;
 
-    white-space: nowrap;
+    transform:translateX(-10px);
 
-    color: #FFFFFF;
+    transition:
+        opacity .20s ease,
+        transform .20s ease;
 
-    font-size: 15px;
+    display:block;
 
-    font-family: "TT Octosquares Trl Md", sans-serif;
+    overflow:hidden;
+
+    white-space:nowrap;
+
+    width:0;
+
+    font-family:"TT Octosquares Trl Md",sans-serif;
+
+    font-size:15px;
+
+    color:#FFF;
 
 }
 
-.sidebar.expanded .nav-label {
+.sidebar.expanded .nav-label{
 
-    display: block;
+    opacity:1;
+
+    transform:translateX(0);
+
+    width:auto;
+
+    margin-left:16px;
 
 }
 
-/* ==========================
+/* ==========================================
    SETA
-========================== */
+========================================== */
 
-.nav-arrow {
+.nav-arrow{
 
-    margin-left: auto;
+    margin-left:auto;
 
-    width: 16px;
+    width:16px;
 
-    display: none;
+    display:none;
 
 }
 
-.sidebar.expanded .nav-arrow {
+.sidebar.expanded .nav-arrow{
 
-    display: block;
+    display:block;
 
 }
