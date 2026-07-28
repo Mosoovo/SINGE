@@ -2,68 +2,218 @@
 
     <nav class="sidebar-menu">
 
-        <!-- Dashboard -->
+        <!-- ==================================================
+             DASHBOARD
+        =================================================== -->
 
-        <a href="#" class="nav-item active">
+        <div class="menu-group">
 
-            <span class="sidebar-indicator"></span>
+            <a href="#" class="nav-item active">
 
-            <span class="nav-icon">
+                <span class="sidebar-indicator"></span>
 
-                <img src="{{ url_for('static', filename='design-system/icons/menu.svg') }}"
-                     alt="Dashboard">
+                <span class="nav-icon">
+                    <img src="{{ url_for('static', filename='design-system/icons/display.svg') }}" alt="Dashboard">
+                </span>
 
-            </span>
+                <span class="nav-label">Dashboard</span>
 
-            <span class="nav-label">
-                Dashboard
-            </span>
+                <span class="nav-arrow"></span>
 
-            <span class="nav-arrow"></span>
+            </a>
 
-        </a>
+        </div>
 
-        <!-- Alunos -->
+        <!-- ==================================================
+             TURMAS
+        =================================================== -->
 
-        <a href="#" class="nav-item">
+        <div class="menu-group">
 
-            <span class="sidebar-indicator"></span>
+            <a href="#" class="nav-item has-submenu">
 
-            <span class="nav-icon">
+                <span class="sidebar-indicator"></span>
 
-                <img src="{{ url_for('static', filename='design-system/icons/user.svg') }}"
-                     alt="Alunos">
+                <span class="nav-icon">
+                    <img src="{{ url_for('static', filename='design-system/icons/study.svg') }}" alt="Turmas">
+                </span>
 
-            </span>
+                <span class="nav-label">Turmas</span>
 
-            <span class="nav-label">
-                Alunos
-            </span>
+                <span class="nav-arrow">▼</span>
 
-            <span class="nav-arrow"></span>
+            </a>
 
-        </a>
+            <div class="submenu">
 
-        <!-- Pesquisa -->
+                <a href="#">Educação Infantil</a>
 
-        <a href="#" class="nav-item">
+                <div class="submenu submenu-level-2">
 
-            <span class="sidebar-indicator"></span>
+                    <a href="#">1º Período</a>
+                    <a href="#">2º Período</a>
 
-            <span class="nav-icon">
+                </div>
 
-                <img src="{{ url_for('static', filename='design-system/icons/search.svg') }}"
-                     alt="Pesquisar">
+                <a href="#">Ensino Fundamental</a>
 
-            </span>
+                <div class="submenu submenu-level-2">
 
-            <span class="nav-label">
-                Pesquisar
-            </span>
+                    <a href="#">1º Ano</a>
+                    <a href="#">2º Ano</a>
+                    <a href="#">3º Ano</a>
+                    <a href="#">4º Ano</a>
+                    <a href="#">5º Ano</a>
+                    <a href="#">6º Ano</a>
+                    <a href="#">7º Ano</a>
+                    <a href="#">8º Ano</a>
+                    <a href="#">9º Ano</a>
 
-            <span class="nav-arrow"></span>
+                </div>
 
-        </a>
+            </div>
+
+        </div>
+
+        <!-- ==================================================
+             DOCUMENTOS
+        =================================================== -->
+
+        <div class="menu-group">
+
+            <a href="#" class="nav-item has-submenu">
+
+                <span class="sidebar-indicator"></span>
+
+                <span class="nav-icon">
+                    <img src="{{ url_for('static', filename='design-system/icons/note.svg') }}" alt="Documentos">
+                </span>
+
+                <span class="nav-label">Documentos</span>
+
+                <span class="nav-arrow">▼</span>
+
+            </a>
+
+            <div class="submenu">
+
+                <!-- Declarações -->
+
+                <a href="#" class="submenu-item has-submenu">
+
+                    Declarações
+
+                    <span class="submenu-arrow">▶</span>
+
+                </a>
+
+                <div class="submenu submenu-level-2">
+
+                    <a href="#">Escolaridade</a>
+
+                    <a href="#">Escolaridade com Guarda</a>
+
+                    <a href="#">Jovem Aprendiz</a>
+
+                    <a href="#">Declaração para o IFF</a>
+
+                    <a href="#">Comparecimento</a>
+
+                    <a href="#">Transferência</a>
+
+                    <a href="#">Transferência Final de Ano</a>
+
+                </div>
+
+                <!-- Listas -->
+
+                <a href="#" class="submenu-item has-submenu">
+
+                    Listas
+
+                    <span class="submenu-arrow">▶</span>
+
+                </a>
+
+                <div class="submenu submenu-level-2">
+
+                    <a href="#">Ata</a>
+
+                    <a href="#">Lista de Chamada</a>
+
+                    <a href="#">Lista de Matrículas</a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ==================================================
+             ARQUIVO PERMANENTE
+        =================================================== -->
+
+        <div class="menu-group">
+
+            <a href="#" class="nav-item">
+
+                <span class="sidebar-indicator"></span>
+
+                <span class="nav-icon">
+                    <img src="{{ url_for('static', filename='design-system/icons/data.svg') }}" alt="Arquivo Permanente">
+                </span>
+
+                <span class="nav-label">Arquivo Permanente</span>
+
+                <span class="nav-arrow"></span>
+
+            </a>
+
+        </div>
+
+        <!-- ==================================================
+             CALENDÁRIO
+        =================================================== -->
+
+        <div class="menu-group">
+
+            <a href="#" class="nav-item">
+
+                <span class="sidebar-indicator"></span>
+
+                <span class="nav-icon">
+                    <img src="{{ url_for('static', filename='design-system/icons/calendar.svg') }}" alt="Calendário">
+                </span>
+
+                <span class="nav-label">Calendário</span>
+
+                <span class="nav-arrow"></span>
+
+            </a>
+
+        </div>
+
+        <!-- ==================================================
+             CONFIGURAÇÕES
+        =================================================== -->
+
+        <div class="menu-group">
+
+            <a href="#" class="nav-item">
+
+                <span class="sidebar-indicator"></span>
+
+                <span class="nav-icon">
+                    <img src="{{ url_for('static', filename='design-system/icons/settings.svg') }}" alt="Configurações">
+                </span>
+
+                <span class="nav-label">Configurações</span>
+
+                <span class="nav-arrow"></span>
+
+            </a>
+
+        </div>
 
     </nav>
 
