@@ -7,7 +7,7 @@
     position: fixed;
 
     top: 65px;
-    left: 0px;
+    left: 0;
 
     width: 72px;
     height: calc(100vh - 65px);
@@ -21,246 +21,384 @@
 
     padding: 12px;
 
-    box-shadow: 0 8px 20px rgba(0,0,0,.15);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .15);
 
     transition: width .25s ease;
-
 }
+
 
 /* ==========================================
    SIDEBAR EXPANDIDA
 ========================================== */
 
-.sidebar.expanded{
+.sidebar.expanded {
 
-    width:260px;
+    width: 260px;
 
 }
+
 
 /* ==========================================
    MENU
 ========================================== */
 
-.sidebar-menu{
+.sidebar-menu {
 
-    display:flex;
+    display: flex;
+    flex-direction: column;
 
-    flex-direction:column;
-
-    gap:8px;
-
-}
-/* ==========================================
-   SUB-MENU
-========================================== */
-.submenu{
-
-    display:none;
-
-    flex-direction:column;
-
-    margin-left:46px;
-
-    gap:6px;
-
-}
-.submenu a{
-
-    color:#D1D5DB;
-
-    text-decoration:none;
-
-    font-size:14px;
-
-    padding:6px 0;
-
-    transition:.2s;
+    gap: 8px;
 
 }
 
-.submenu a:hover{
-
-    color:#FFFFFF;
-
-}
-
-.menu-group.open > .submenu{
-
-    display:block;
-
-}
 
 /* ==========================================
-   ITEM
+   ITEM PRINCIPAL
 ========================================== */
 
-.nav-item{
+.nav-item {
 
-  position: relative;
+    position: relative;
 
-    display:flex;
-    align-items:center;
-    justify-content:center;
+    width: 100%;
+    height: 48px;
 
-    width:100%;
-    height:48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-    padding:0;
+    padding: 0;
 
-    border-radius:12px;
+    border-radius: 12px;
 
-    color:#FFFFFF;
-    text-decoration:none;
+    color: #FFFFFF;
+    text-decoration: none;
 
-    transition:.2s;
+    transition:
+        background .20s ease,
+        transform .20s ease;
 
 }
 
-.nav-item:hover{
+.sidebar.expanded .nav-item {
 
-    background:rgba(22,119,200,.15);
-    transform:translateX(0px);
+    justify-content: flex-start;
+
+    padding: 0 12px;
+
 }
+
+.nav-item:hover {
+
+    background: rgba(22, 119, 200, .15);
+
+}
+
 
 /* ==========================================
    INDICADOR
 ========================================== */
 
-.sidebar-indicator{
+.sidebar-indicator {
 
-    width:4px;
-    height:28px;
+    width: 4px;
+    height: 28px;
 
-    border-radius:999px;
+    border-radius: 999px;
 
-    background:#374151;
+    flex-shrink: 0;
 
-    opacity:1;
+    margin-right: 12px;
 
-    margin-right:12px;
+    background: #374151;
 
-    flex-shrink:0;
-
-    transition:.2s;
+    transition: .20s;
 
 }
+
+
 /* Indicadores alternados */
 
-.menu-group:nth-child(odd) .sidebar-indicator{
+.sidebar-menu > .menu-group:nth-child(odd) > .nav-item > .sidebar-indicator {
 
-    background:#0057B8;
+    background: #0057B8;
 
 }
 
-.menu-group:nth-child(even) .sidebar-indicator{
+.sidebar-menu > .menu-group:nth-child(even) > .nav-item > .sidebar-indicator {
 
-    background:#374151;
-    
+    background: #374151;
+
 }
+
+
 /* Indicador selecionado */
 
-.nav-item.active .sidebar-indicator{
+.nav-item.active .sidebar-indicator {
 
-    background:#00A878;
+    background: #00A878;
 
 }
+
 
 /* ==========================================
    ÍCONE
 ========================================== */
 
-.nav-icon{
+.nav-icon {
 
-    width:24px;
-    min-width:24px;
-    height:24px;
+    width: 24px;
+    height: 24px;
 
-    display:flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-    justify-content:center;
+    flex-shrink: 0;
 
-    align-items:center;
+}
+
+.nav-icon img {
+
+    width: 24px;
+    height: 24px;
+
+    display: block;
+
+    filter:
+        invert(21%)
+        sepia(98%)
+        saturate(1914%)
+        hue-rotate(198deg)
+        brightness(96%)
+        contrast(101%);
 
 }
 
-.nav-icon img{
-
-    width:24px;
-    height:24px;
-    display:block;
-  /* Converte a cor preta do SVG para #0055b4 */
-    filter: invert(21%) sepia(98%) saturate(1914%) hue-rotate(198deg) brightness(96%) contrast(101%);
-
-}
 
 /* ==========================================
    TEXTO
 ========================================== */
 
-.nav-label{
+.nav-label {
 
-    display:block;
+    opacity: 0;
 
-    overflow:hidden;
+    max-width: 0;
 
-    white-space:nowrap;
+    overflow: hidden;
 
-    opacity:0;
+    white-space: nowrap;
 
-    max-width:0;
+    margin-left: 0;
 
-    margin-left:0;
+    color: #FFFFFF;
+
+    font-size: 15px;
+
+    font-family: "TT Octosquares Trl Md", sans-serif;
 
     transition:
         opacity .20s ease,
         max-width .25s ease,
         margin-left .25s ease;
 
-    font-family:"TT Octosquares Trl Md",sans-serif;
+}
 
-    font-size:15px;
+.sidebar.expanded .nav-label {
 
-    color:#FFFFFF;
+    opacity: 1;
+
+    max-width: 180px;
+
+    margin-left: 16px;
 
 }
 
-.sidebar.expanded .nav-label{
 
-    opacity:1;
+/* ==========================================
+   SETA PRINCIPAL
+========================================== */
 
-    max-width:180px;
+.nav-arrow {
 
-    margin-left:16px;
+    margin-left: auto;
+
+    width: 18px;
+    min-width: 18px;
+
+    text-align: center;
+
+    font-size: 10px;
+
+    color: #9CA3AF;
+
+    opacity: 0;
+
+    transition:
+        transform .15s ease,
+        opacity .20s ease;
+
+}
+
+.sidebar.expanded .nav-arrow {
+
+    opacity: 1;
+
+}
+
+
+/* Gira a seta quando o menu principal está aberto */
+
+.menu-group.open > .nav-item .nav-arrow {
+
+    transform: rotate(180deg);
+
+}
+
+
+/* ==========================================
+   SUBMENU - PRIMEIRO NÍVEL
+========================================== */
+
+.submenu {
+
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 46px;
+
+    gap: 6px;
+
+    max-height: 0;
+
+    overflow: hidden;
+
+    opacity: 0;
+
+    transition:
+        max-height .25s ease,
+        opacity .20s ease;
+
+}
+
+
+/* Abre submenu principal */
+
+.menu-group.open > .submenu {
+
+    max-height: 600px;
+
+    opacity: 1;
+
+}
+
+
+/* ==========================================
+   ITEM DO SUBMENU
+========================================== */
+
+.submenu-item {
+
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+    color: #D1D5DB;
+
+    text-decoration: none;
+
+    font-size: 14px;
+
+    padding: 6px 0;
+
+    transition: color .20s ease;
+
+}
+
+.submenu-item:hover {
+
+    color: #FFFFFF;
+
+}
+
+
+/* ==========================================
+   LINKS INTERNOS
+========================================== */
+
+.submenu a {
+
+    color: #D1D5DB;
+
+    text-decoration: none;
+
+    font-size: 14px;
+
+    padding: 6px 0;
+
+    transition: color .20s ease;
+
+}
+
+.submenu a:hover {
+
+    color: #FFFFFF;
+
+}
+
+
+/* ==========================================
+   SETA DOS SUBMENUS
+========================================== */
+
+.submenu-arrow {
+
+     margin-left: auto;
+
+    width: 18px;
+    min-width: 18px;
+
+    text-align: center;
+
+    font-size: 10px;
+
+    color: #9CA3AF;
+
+    opacity: 1;
+
+    transition:
+        transform .15s ease,
+        opacity .20s ease;
+}
+
+.submenu-group.open > .submenu-item .submenu-arrow {
+
+    transform: rotate(90deg);
 
 }
 
 /* ==========================================
-   SETA
+   SUBMENU - SEGUNDO NÍVEL
 ========================================== */
 
-.nav-arrow{
+.submenu-level-2 {
 
-    width:18px;
-
-    min-width:18px;
-
-    text-align:center;   
-
-    margin-left:auto;
-
-    font-size:10px;
-
-    color:#9CA3AF;
-
-    opacity:0;
-
-    transition:.2s;
+    margin-left: 18px;
 
 }
 
-.sidebar.expanded .nav-arrow{
+.submenu-group.open > .submenu-level-2 {
 
-    opacity:1;
-    display:block;
+    max-height: 600px;
+
+    opacity: 1;
+
+}
+
+.submenu-group.open > .submenu-item .submenu-arrow {
+
+    transform: rotate(180deg);
 
 }
