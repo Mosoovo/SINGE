@@ -1,0 +1,55 @@
+/* ==========================================
+   WORKSPACE
+========================================== */
+
+.workspace {
+
+    position: fixed;
+
+    top: 65px;
+    left: 72px;
+
+    width: calc(100% - 72px);
+    height: calc(100vh - 65px);
+
+    background: #F3F4F6;
+
+    transition:
+        left .25s ease,
+        width .25s ease;
+
+}
+
+
+/* ==========================================
+   SIDEBAR EXPANDIDA
+========================================== */
+
+/*
+   Quando a Sidebar estiver expandida,
+   a Workspace acompanha sua largura.
+*/
+
+.sidebar.expanded ~ .workspace {
+
+    left: 260px;
+
+    width: calc(100% - 260px);
+
+}
+
+
+/* ==========================================
+   CONTEÚDO DA WORKSPACE
+========================================== */
+
+.workspace-content {
+
+    width: 100%;
+    height: 100%;
+
+    padding: 24px;
+
+    overflow-y: auto;
+
+}
