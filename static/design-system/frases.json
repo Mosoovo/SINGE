@@ -1,0 +1,3277 @@
+[
+  {
+    "id" : 1,
+    "autor" : "Duke Ellington",
+    "frase" : "Os problemas são oportunidades para se mostrar o que sabe."
+  },
+  {
+    "id" : 2,
+    "autor" : "Henry Ford",
+    "frase" : "Nossos fracassos, às vezes, são mais frutíferos do que os êxitos."
+  },
+  {
+    "id" : 3,
+    "autor" : "Samuel Beckett",
+    "frase" : "Tente de novo. Fracasse de novo. Mas fracasse melhor"
+  },
+  {
+    "id" : 4,
+    "autor" : "Sócrates",
+    "frase" : "É costume de um tolo, quando erra, queixar-se dos outros. É costume de um sábio queixar-se de si mesmo"
+  },
+  {
+    "id" : 5,
+    "autor" : "W. F. Grenfel",
+    "frase" : "O verdadeiro heroísmo consiste em persistir por mais um momento, quando tudo parece perdido"
+  },
+  {
+    "id" : 6,
+    "autor" : "Norman Bawes",
+    "frase" : "Cada cliente é como se fosse primeiro e único"
+  },
+  {
+    "id" : 7,
+    "autor" : "Santo Agostinho",
+    "frase" : "Mesmo que já tenhas feito uma longa caminhada, há sempre um novo caminho a fazer"
+  },
+  {
+    "id" : 8,
+    "autor" : "Ciclo dos Profissionais de Venda",
+    "frase" : "Vender é construir uma ponte entre você e seu cliente e fazê-lo atravessar para o seu lado"
+  },
+  {
+    "id" : 9,
+    "autor" : "Churton Collins",
+    "frase" : "Na prosperidade, nossos amigos nos conhecem; na adversidade, nós é que conhecemos nossos amigos"
+  },
+  {
+    "id" : 10,
+    "autor" : "Jean Paul Sartre",
+    "frase" : "A felicidade não está em fazer o que a gente quer, e sim querer o que a gente faz"
+  },
+  {
+    "id" : 11,
+    "autor" : "Carl Sandburg",
+    "frase" : "Nada acontece a menos que sonhemos antes"
+  },
+  {
+    "id" : 12,
+    "autor" : "Walt Disney",
+    "frase" : "É sempre divertido fazer o impossível"
+  },
+  {
+    "id" : 13,
+    "autor" : "Jan Carlzon",
+    "frase" : "A coisa mais cara é transformar um cliente insatisfeito em satisfeito"
+  },
+  {
+    "id" : 14,
+    "autor" : "Oscar Wilde",
+    "frase" : "Experiência é o nome que cada um dá a seus erros"
+  },
+  {
+    "id" : 15,
+    "autor" : "Abraham Lincoln",
+    "frase" : "Lembre sempre que a sua vontade de triunfar é mais importante do que qualquer outra coisa"
+  },
+  {
+    "id" : 16,
+    "autor" : "Anatole France",
+    "frase" : "Prefiro os erros do entusiasmo à indiferença da sabedoria"
+  },
+  {
+    "id" : 17,
+    "autor" : "Carter Brow",
+    "frase" : "Na realidade, vendas e serviços são inseparáveis"
+  },
+  {
+    "id" : 18,
+    "autor" : "Napoleão Bonaparte",
+    "frase" : "A arte de ser ora audacioso, ora prudente, é a arte de vencer"
+  },
+  {
+    "id" : 19,
+    "autor" : "H. Jackson Brown Jr.",
+    "frase" : "Seja corajoso. Mesmo que você não seja, finja ser. Ninguém nota a diferença"
+  },
+  {
+    "id" : 20,
+    "autor" : "Moliere",
+    "frase" : "Não somos responsáveis apenas pelo que fazemos, mas também pelo que deixamos de fazer"
+  },
+  {
+    "id" : 21,
+    "autor" : "Michael Gerber",
+    "frase" : "A estratégia de marketing começa, termina, vive e morre com o cliente"
+  },
+  {
+    "id" : 22,
+    "autor" : "R. H. Grant",
+    "frase" : "Quando você contrata pessoas mais inteligentes do que você, prova que é mais inteligente do que elas"
+  },
+  {
+    "id" : 23,
+    "autor" : "Michael Jordan",
+    "frase" : "O talento vence jogos, mas só o trabalho em equipe vence campeonatos"
+  },
+  {
+    "id" : 24,
+    "autor" : "Hugh Prather",
+    "frase" : "Um negócio nunca é bom se com ele conseguimos um inimigo"
+  },
+  {
+    "id" : 25,
+    "autor" : "Joel L. Griffith",
+    "frase" : "Um objetivo nada mais é do que um sonho com limite de tempo"
+  },
+  {
+    "id" : 26,
+    "autor" : "Elmer Letterman",
+    "frase" : "Sorte é o que acontece quando a preparação encontra a oportunidade"
+  },
+  {
+    "id" : 27,
+    "autor" : "Phill Knight",
+    "frase" : "O mercado dita inovações. Quem não segue vira peça de museu"
+  },
+  {
+    "id" : 28,
+    "autor" : "Vidal Sasson",
+    "frase" : "O único lugar que o sucesso vem antes do trabalho é no dicionário"
+  },
+  {
+    "id" : 29,
+    "autor" : "William Ahmanson",
+    "frase" : "Se você quiser ir daqui para lá no mundo dos negócios, não encontrará nenhuma linha reta para levá-lo"
+  },
+  {
+    "id" : 30,
+    "autor" : "R. Buckminster Fuller",
+    "frase" : "Integridade é a essência de todo negócio"
+  },
+  {
+    "id" : 31,
+    "autor" : "Peter Drucker",
+    "frase" : "Existe o risco que você jamais pode correr. Existe o risco que você jamais pode deixar de correr"
+  },
+  {
+    "id" : 32,
+    "autor" : "Henry Ford",
+    "frase" : "As duas coisas mais importantes não aparecem no balanço da empresa: sua reputação e o seu time"
+  },
+  {
+    "id" : 33,
+    "autor" : "Orison Swett Marden",
+    "frase" : "A qualidade do seu trabalho tem tudo a ver com a qualidade da sua vida"
+  },
+  {
+    "id" : 34,
+    "autor" : "Michael Treacy",
+    "frase" : "Nenhuma empresa pode ter sucesso tentando tudo para todos"
+  },
+  {
+    "id" : 35,
+    "autor" : "Walter Reuther",
+    "frase" : "Nunca se esqueça de um cliente; e nunca deixe que um cliente esqueça você"
+  },
+  {
+    "id" : 36,
+    "autor" : "Aristóteles",
+    "frase" : "Somos o que repetidamente fazemos. Portanto, a excelência não é um feito, é um hábito"
+  },
+  {
+    "id" : 37,
+    "autor" : "Marabel Morgan",
+    "frase" : "Persistência é irmã gêmea da excelência. Uma é mãe da qualidade, a outra a mãe do tempo"
+  },
+  {
+    "id" : 38,
+    "autor" : "Theodoro Levitt",
+    "frase" : "O propósito de uma companhia é criar e manter o cliente"
+  },
+  {
+    "id" : 39,
+    "autor" : "Sam Walton",
+    "frase" : "Comemore os seus sucessos. Veja com humor os seus fracassos"
+  },
+  {
+    "id" : 40,
+    "autor" : "Alfred Tennyson",
+    "frase" : "Autorrespeito, autoconhecimento e autocontrole conduzem a vida ao poder supremo"
+  },
+  {
+    "id" : 41,
+    "autor" : "Henri Barbusse",
+    "frase" : "É tentando o impossível que se chega à realização do possível"
+  },
+  {
+    "id" : 42,
+    "autor" : "Richard Whiteley",
+    "frase" : "Ganharão o jogo empresas que têm como missão exceder as expectativas dos clientes"
+  },
+  {
+    "id" : 43,
+    "autor" : "Bill Gates",
+    "frase" : "Toda empresa precisa ter gente que erra, que não tem medo de errar e que aprende com erro"
+  },
+  {
+    "id" : 44,
+    "autor" : "Ralph Waldo Emerson",
+    "frase" : "A confiança em si mesmo é o primeiro segredo do sucesso"
+  },
+  {
+    "id" : 45,
+    "autor" : "Provérbio Gal",
+    "frase" : "Aquele que pretende ser um líder tem que ser uma ponte"
+  },
+  {
+    "id" : 46,
+    "autor" : "Peter Ducker",
+    "frase" : "Sempre que se vê um empreendimento de sucesso é porque alguém antes tomou uma decisão destemida"
+  },
+  {
+    "id" : 47,
+    "autor" : "John Tschohl",
+    "frase" : "Serviços aos clientes é uma estratégia de marketing"
+  },
+  {
+    "id" : 48,
+    "autor" : "Norman Vincent Peale",
+    "frase" : "Muda tuas ideias e mudarás teu mundo"
+  },
+  {
+    "id" : 49,
+    "autor" : "John Kao",
+    "frase" : "Sua tarefa como líder é criar uma atmosfera que transforme o antagonismo em energia criativa"
+  },
+  {
+    "id" : 50,
+    "autor" : "John Tschohl",
+    "frase" : "A publicidade traz os clientes até a porta; mas o mau serviço envia eles direto para fora"
+  },
+  {
+    "id" : 51,
+    "autor" : "Daryl Bernstein",
+    "frase" : "Único cliente bom é o cliente feliz. Lembre-se: clientes felizes adoram gastar dinheiro"
+  },
+  {
+    "id" : 52,
+    "autor" : "Jean Rozwadowski",
+    "frase" : "Devemos prometer somente aquilo que podemos entregar e entregar mais do que prometemos"
+  },
+  {
+    "id" : 53,
+    "autor" : "Georg Wilhelm",
+    "frase" : "Nada de importante no mundo foi realizado sem paixão"
+  },
+  {
+    "id" : 54,
+    "autor" : "Célia Chaim",
+    "frase" : "Quem tem a obrigação de visualizar o futuro não é o cliente"
+  },
+  {
+    "id" : 55,
+    "autor" : "Roland Barthes",
+    "frase" : "Profissional nota 10 é aquele que tem 2 pontos de esforço, 3 pontos de talento e 5 pontos de caráter"
+  },
+  {
+    "id" : 56,
+    "autor" : "Dean Rusk",
+    "frase" : "Uma das melhores maneiras de convencer os outros é ouvindo. Ouça todos"
+  },
+  {
+    "id" : 57,
+    "autor" : "Masaaki Imai",
+    "frase" : "O importante é mudar sempre, mesmo que estejamos crescendo e ganhando o jogo"
+  },
+  {
+    "id" : 58,
+    "autor" : "Barrie Hopson e Mike Scally",
+    "frase" : "Sempre que você vai encontrar um cliente você é a empresa"
+  },
+  {
+    "id" : 59,
+    "autor" : "Dave Weinbaum",
+    "frase" : "Se não puder destacar-se pelo talento, vença pelo esforço"
+  },
+  {
+    "id" : 60,
+    "autor" : "Segundo Mandamento da TAM",
+    "frase" : "Em busca do ótimo não se faz o bom"
+  },
+  {
+    "id" : 61,
+    "autor" : "Thomas Edison",
+    "frase" : "Se existe uma forma de fazer melhor, descubra-a"
+  },
+  {
+    "id" : 62,
+    "autor" : "Sérgio Almeida",
+    "frase" : "Fechar os olhos e os ouvidos para o cliente é uma loucura. É um suicídio empresarial"
+  },
+  {
+    "id" : 63,
+    "autor" : "Steve Jobs",
+    "frase" : "Não deixe o ruído das opiniões dos outros abafar a sua própria voz interior"
+  },
+  {
+    "id" : 64,
+    "autor" : "John F. Kennedy",
+    "frase" : "Somente os que ousam errar muito podem realizar muito"
+  },
+  {
+    "id" : 65,
+    "autor" : "General George S. Patton",
+    "frase" : "Aceite os desafios para que possa sentir o sabor da vitória"
+  },
+  {
+    "id" : 66,
+    "autor" : "Louis Pasteur",
+    "frase" : "A sorte favorece a mente preparada"
+  },
+  {
+    "id" : 67,
+    "autor" : "Karl Albrecht",
+    "frase" : "Quando os momentos da verdade não são gerenciados, o serviço regride até a mediocridade"
+  },
+  {
+    "id" : 68,
+    "autor" : "Robert H. Schuller",
+    "frase" : "Metas são necessárias não só para nos motivar, mas para nos manter vivos"
+  },
+  {
+    "id" : 69,
+    "autor" : "Earl Nightingate",
+    "frase" : "Pessoas com meta têm sucesso pois sabem onde estão indo"
+  },
+  {
+    "id" : 70,
+    "autor" : "Marco Aurélio",
+    "frase" : "A pessoa comum é exigente com os outros. A superior é exigente consigo mesmo"
+  },
+  {
+    "id" : 71,
+    "autor" : "Sófocles",
+    "frase" : "Não há sucesso sem dificuldade"
+  },
+  {
+    "id" : 72,
+    "autor" : "Carl Sewell",
+    "frase" : "Os clientes julgam os serviços pela maneira que são tratados por aqueles com quem tem contato"
+  },
+  {
+    "id" : 73,
+    "autor" : "Walter Gagehot",
+    "frase" : "Um grande prazer na vida é fazer aquilo que dizem que você não é capaz de fazer"
+  },
+  {
+    "id" : 74,
+    "autor" : "Eugene F. Ware",
+    "frase" : "Toda glória advém de ousar começar"
+  },
+  {
+    "id" : 75,
+    "autor" : "Bruce Hammonds",
+    "frase" : "Todas as pequenas coisas, juntas, formam uma base de clientes fiéis e mais lucrativas"
+  },
+  {
+    "id" : 76,
+    "autor" : "Roy L. Smith",
+    "frase" : "A pessoa que não acredita em si mesmo não acredita em mais nada"
+  },
+  {
+    "id" : 77,
+    "autor" : "Cotton",
+    "frase" : "Grandes mentes estão prontas não apenas para explorar oportunidades, mas para criá-las"
+  },
+  {
+    "id" : 78,
+    "autor" : "Ben Stein",
+    "frase" : "O primeiro passo indispensável para conseguir coisas na vida é decidir o que você quer"
+  },
+  {
+    "id" : 79,
+    "autor" : "Jack Lowenstein",
+    "frase" : "A percepção quando chega a ser julgada por outros é a realidade"
+  },
+  {
+    "id" : 80,
+    "autor" : "H. W. Arnold",
+    "frase" : "O pior fracassado do mundo é aquele que perdeu o entusiasmo"
+  },
+  {
+    "id" : 81,
+    "autor" : "John Ruskin",
+    "frase" : "A maior recompensa pelo trabalho não é o que a pessoa ganha, é o que ela se torna através dele"
+  },
+  {
+    "id" : 82,
+    "autor" : "Steven Hronec",
+    "frase" : "Quando as expectativas aumentam inicia-se um ciclo interminável e contínuo de melhoria"
+  },
+  {
+    "id" : 83,
+    "autor" : "Confúcio",
+    "frase" : "Aquele que cometeu um erro e não corrigiu está cometendo outro erro"
+  },
+  {
+    "id" : 84,
+    "autor" : "Raul Follerean",
+    "frase" : "A vitória sempre foi de quem nunca duvidou dela"
+  },
+  {
+    "id" : 85,
+    "autor" : "Walter Savage Landor",
+    "frase" : "Os satisfeitos nada mais fazem. Os insatisfeitos são os únicos propulsores do mundo"
+  },
+  {
+    "id" : 86,
+    "autor" : "S. Marcos",
+    "frase" : "Todas as coisas são possíveis àqueles que creem"
+  },
+  {
+    "id" : 87,
+    "autor" : "Norman Vincent Peale",
+    "frase" : "O problema é que a maioria das pessoas prefere um elogio que prejudique do que uma crítica que beneficie"
+  },
+  {
+    "id" : 88,
+    "autor" : "Albert Hirschman",
+    "frase" : "A decepção surge da disparidade entre a expectativa de uma experiência agradável e a experiência real"
+  },
+  {
+    "id" : 89,
+    "autor" : "Dom Resende Costa",
+    "frase" : "Prefiro a angústia da busca do que a paz da acomodação"
+  },
+  {
+    "id" : 90,
+    "autor" : "F. Veiga",
+    "frase" : "Os únicos limites das pessoas são o tamanho de suas ideias e o grau de sua dedicação"
+  },
+  {
+    "id" : 91,
+    "autor" : "Aldous Huxley",
+    "frase" : "Conhecimento não é aquilo que você sabe, mas o que você faz com aquilo que sabe"
+  },
+  {
+    "id" : 92,
+    "autor" : "Rick Tate",
+    "frase" : "Fidelidade do cliente é a chave para lucratividade e crescimento futuro"
+  },
+  {
+    "id" : 93,
+    "autor" : "Provérbio ",
+    "frase" : "Critica o que fazes, e não faças o que criticas"
+  },
+  {
+    "id" : 94,
+    "autor" : "Lord Chesterfield",
+    "frase" : "O que merece ser feito, merece ser bem feito"
+  },
+  {
+    "id" : 95,
+    "autor" : "Henry Ford",
+    "frase" : "Não encontre defeitos, encontre soluções. Qualquer um sabe queixar-se"
+  },
+  {
+    "id" : 96,
+    "autor" : "Elbert Hubbard",
+    "frase" : "Para evitar críticas: não faça nada, não diga nada, não seja nada"
+  },
+  {
+    "id" : 97,
+    "autor" : "Marcos Gouv",
+    "frase" : "As pessoas abominam a impessoalidade do negócio"
+  },
+  {
+    "id" : 98,
+    "autor" : "J. F. Mitchell",
+    "frase" : "Nunca aceite o ‘não’ como resposta"
+  },
+  {
+    "id" : 99,
+    "autor" : "Diógenes Laércio",
+    "frase" : "A natureza nos deu uma língua e dois ouvidos para que ouçamos mais do que falamos"
+  },
+  {
+    "id" : 100,
+    "autor" : "Sérgio Almeida",
+    "frase" : "Se você não puder manter, não proponha nada; esta é a regra básica na satisfação do cliente"
+  },
+  {
+    "id" : 101,
+    "autor" : "Kauto",
+    "frase" : "Feliz aquele que sabe adquirir experiência com o erro dos outros"
+  },
+  {
+    "id" : 102,
+    "autor" : "Eugène Ionesco",
+    "frase" : "Querer ser de seu tempo é já estar ultrapassado"
+  },
+  {
+    "id" : 103,
+    "autor" : "Norman Vincent Peale",
+    "frase" : "Planeje o seu trabalho hoje para todos os dias trabalhar o seu plano"
+  },
+  {
+    "id" : 104,
+    "autor" : "David Freemantle",
+    "frase" : "Supere a expectativa do cliente com pequenas ações frequentes e não solicitadas"
+  },
+  {
+    "id" : 105,
+    "autor" : "Earle Wilson",
+    "frase" : "Sucesso é apenas sorte; pergunte para qualquer fracassado"
+  },
+  {
+    "id" : 106,
+    "autor" : "Henry Miller",
+    "frase" : "Destino não é exterior a nós; somos nós que criamos nosso próprio destino dia após dia"
+  },
+  {
+    "id" : 107,
+    "autor" : "Provérbio chin",
+    "frase" : "O homem que removeu a montanha começou carregando as pedras"
+  },
+  {
+    "id" : 108,
+    "autor" : "Heinz Rahnan",
+    "frase" : "O gosto amargo da baixa qualidade dura bem mais do que a doçura do preço inferior"
+  },
+  {
+    "id" : 109,
+    "autor" : "Lecouve",
+    "frase" : "A covardia é o medo aceito; a coragem é o medo dominado"
+  },
+  {
+    "id" : 110,
+    "autor" : "Onassis",
+    "frase" : "Todos os dias me levanto para vencer"
+  },
+  {
+    "id" : 111,
+    "autor" : "Enzo Ferrari",
+    "frase" : "Meu sucesso se deve ao fato de me cercar de pessoas competentes"
+  },
+  {
+    "id" : 112,
+    "autor" : "Nathiel Hover",
+    "frase" : "Não atrase o seu progresso com medo de fracassar"
+  },
+  {
+    "id" : 113,
+    "autor" : "Business Week",
+    "frase" : "As pessoas são a força direcional por trás do crescimento"
+  },
+  {
+    "id" : 114,
+    "autor" : "Sétimo Mandamento da TAM",
+    "frase" : "Quem não tem inteligência para criar tem que ter coragem para copiar"
+  },
+  {
+    "id" : 115,
+    "autor" : "Eleanor Roosvelt",
+    "frase" : "Ninguém pode ferir você sem o seu consentimento"
+  },
+  {
+    "id" : 116,
+    "autor" : "Denis Waitley",
+    "frase" : "O verdadeiro risco é não fazer nada"
+  },
+  {
+    "id" : 117,
+    "autor" : "Lao Tsu",
+    "frase" : "Aquele que domina os outros é forte; aquele que domina a si mesmo é todo-poderoso"
+  },
+  {
+    "id" : 118,
+    "autor" : "Theodore Roosvelt",
+    "frase" : "Faça o que puder, com o que tiver, onde estiver"
+  },
+  {
+    "id" : 119,
+    "autor" : "Claus Moller",
+    "frase" : "A qualidade do serviço e produto é decorrência da qualidade das pessoas"
+  },
+  {
+    "id" : 120,
+    "autor" : "William Shakespeare",
+    "frase" : "Nossas dúvidas são traidoras e nos fazem perder, por medo de tentar, o que poderíamos ganhar"
+  },
+  {
+    "id" : 121,
+    "autor" : "Henry John Kaiser",
+    "frase" : "Os problemas são apenas oportunidades com roupas de trabalho"
+  },
+  {
+    "id" : 122,
+    "autor" : "William J. Bennett",
+    "frase" : "Não nos transformamos de uma hora para outra aquilo que não cooperamos para nos tornar"
+  },
+  {
+    "id" : 123,
+    "autor" : "Henry David Thoreau",
+    "frase" : "O que a pessoa pensa a respeito de si mesmo indica o seu destino"
+  },
+  {
+    "id" : 124,
+    "autor" : "Steve Jobs",
+    "frase" : "Decidir o que não fazer é tão importante quanto decidir o que fazer. Isso é verdadeiro para companhias e também para produtos"
+  },
+  {
+    "id" : 125,
+    "autor" : "Roberto Maksoud",
+    "frase" : "O cliente precisa saber que nós nos importamos com ele"
+  },
+  {
+    "id" : 126,
+    "autor" : "Gandhi",
+    "frase" : "Devemos ser a mudança que queremos ver no mundo"
+  },
+  {
+    "id" : 127,
+    "autor" : "Eleanor Roosvelt",
+    "frase" : "Você tem que fazer as coisas que pensa não ser capaz de fazer"
+  },
+  {
+    "id" : 128,
+    "autor" : "Publilius Syrus",
+    "frase" : "Em toda a iniciativa, considere aonde você poderia chegar"
+  },
+  {
+    "id" : 129,
+    "autor" : "Henry Ford",
+    "frase" : "Ninguém pode construir uma reputação com base naquilo que ainda vai fazer"
+  },
+  {
+    "id" : 130,
+    "autor" : "Fortune Magazine",
+    "frase" : "A comunicação é a principal fonte de poder pessoal"
+  },
+  {
+    "id" : 131,
+    "autor" : "Effie Jones",
+    "frase" : "Falhar no planejamento é um planejamento para falhar"
+  },
+  {
+    "id" : 132,
+    "autor" : "Jean de La Fontaine",
+    "frase" : "Em todas as situações, deve-se considerar o objetivo"
+  },
+  {
+    "id" : 133,
+    "autor" : "AMA",
+    "frase" : "65% dos negócios de uma empresa vêm de clientes já existentes – não de novos"
+  },
+  {
+    "id" : 134,
+    "autor" : "Margaret Preston",
+    "frase" : "É o motivo que engrandece a ação; é o fazer, não o feito"
+  },
+  {
+    "id" : 135,
+    "autor" : "Provérbio island",
+    "frase" : "Quem vive sem disciplina morre sem honra"
+  },
+  {
+    "id" : 136,
+    "autor" : "Will Rogers",
+    "frase" : "Mesmo se você estiver no caminho certo será atropelado se ficar sentado nele"
+  },
+  {
+    "id" : 137,
+    "autor" : "George Savile",
+    "frase" : "Desperdiçar o próprio tempo é uma espécie de suicídio"
+  },
+  {
+    "id" : 138,
+    "autor" : "Lori Tansey",
+    "frase" : "A ética dá lucro para a empresa"
+  },
+  {
+    "id" : 139,
+    "autor" : "George Santayana",
+    "frase" : "O fanatismo consiste em redobrar esforços quando o objetivo for esquecido"
+  },
+  {
+    "id" : 140,
+    "autor" : "Laurence J. Peter",
+    "frase" : "Se você não sabe para onde vai, provavelmente terminará em algum outro lugar"
+  },
+  {
+    "id" : 141,
+    "autor" : "Fred Wiersema",
+    "frase" : "Os atrasos deixam o cliente com os dentes rangendo"
+  },
+  {
+    "id" : 142,
+    "autor" : "Lao Tsu",
+    "frase" : "Uma jornada de mil quilômetros começa pelo primeiro passo"
+  },
+  {
+    "id" : 143,
+    "autor" : "Michael de Montaigne",
+    "frase" : "Algumas derrotas são mais triunfantes do que vitórias"
+  },
+  {
+    "id" : 144,
+    "autor" : "Marco Aurélio Antonino",
+    "frase" : "Nossa vida é o que os nossos pensamentos fazem dela"
+  },
+  {
+    "id" : 145,
+    "autor" : "Ditado asiático",
+    "frase" : "Quem torna as coisas mais fáceis para os outros, torna as coisas mais fáceis para si"
+  },
+  {
+    "id" : 146,
+    "autor" : "Claus Moller",
+    "frase" : "Custa 6 vezes mais conquistar um novo cliente do que manter um antigo"
+  },
+  {
+    "id" : 147,
+    "autor" : "Steve Jobs",
+    "frase" : "Seja um parâmetro de qualidade. Algumas pessoas não estão acostumadas a um ambiente onde a excelência é esperada"
+  },
+  {
+    "id" : 148,
+    "autor" : "John Wayne",
+    "frase" : "Coragem é estar morto de medo e encilhar o cavalo mesmo assim"
+  },
+  {
+    "id" : 149,
+    "autor" : "Alexander Soljenitsyn",
+    "frase" : "O talento sempre tem consciência de sua própria abundância e não cria objeções em dividir"
+  },
+  {
+    "id" : 150,
+    "autor" : "Dick Armey",
+    "frase" : "Não se pode progredir enquanto se ajustam contas"
+  },
+  {
+    "id" : 151,
+    "autor" : "Charles Dickens",
+    "frase" : "O único bem coletivo é aquele que assegura o bem individual de cada cidadão"
+  },
+  {
+    "id" : 152,
+    "autor" : "Provérbio ind",
+    "frase" : "Ouça, ou sua língua vai conservar sua surdez"
+  },
+  {
+    "id" : 153,
+    "autor" : "Eric Berne",
+    "frase" : "O que você dá é o que você recebe"
+  },
+  {
+    "id" : 154,
+    "autor" : "Robert Collier",
+    "frase" : "Sucesso é a soma de pequenos esforços repetidos dia sim, e no outro também"
+  },
+  {
+    "id" : 155,
+    "autor" : "Ursula L. Le Guin",
+    "frase" : "É bom ter objetivo para a jornada à frente; mas, no fim, a jornada é o que importa"
+  },
+  {
+    "id" : 156,
+    "autor" : "Abbie Hoffman",
+    "frase" : "Jamais imponha a sua linguagem às pessoas com as quais você deseja se comunicar"
+  },
+  {
+    "id" : 157,
+    "autor" : "Charles Lazarus",
+    "frase" : "Você tem que escutar os clientes e então agir com base no que eles disseram"
+  },
+  {
+    "id" : 158,
+    "autor" : "Ralph Waldo Emerson",
+    "frase" : "As pessoas só vêem aquilo que estão preparadas para ver"
+  },
+  {
+    "id" : 159,
+    "autor" : "John Stuart Mill",
+    "frase" : "Quem só conhece o seu lado do problema sabe pouco sobre ele"
+  },
+  {
+    "id" : 160,
+    "autor" : "John Heywood",
+    "frase" : "Duas cabeças são melhores do que uma"
+  },
+  {
+    "id" : 161,
+    "autor" : "William Bernbach",
+    "frase" : "Uma ideia pode virar pó ou mágica, depende do talento que esbarra nela"
+  },
+  {
+    "id" : 162,
+    "autor" : "Sérgio Almeida",
+    "frase" : "A empresa que busca encantar o cliente é inquieta e criativa"
+  },
+  {
+    "id" : 163,
+    "autor" : "Heráclito",
+    "frase" : "A oposição traz concórdia. A discórdia vem da mais perfeita harmonia"
+  },
+  {
+    "id" : 164,
+    "autor" : "Confúcio",
+    "frase" : "Não busque todas as qualidades em uma pessoa só"
+  },
+  {
+    "id" : 165,
+    "autor" : "Gary Oldman",
+    "frase" : "Ter senso de humor é tão importante quanto ter talento"
+  },
+  {
+    "id" : 166,
+    "autor" : "Will Rogers",
+    "frase" : "Todos nós somos ignorantes, só que em assuntos diferentes"
+  },
+  {
+    "id" : 167,
+    "autor" : "Chuang-tsé, adaptado",
+    "frase" : "O plano de só uma pessoa pode ser incompleto; o de duas será melhor"
+  },
+  {
+    "id" : 168,
+    "autor" : "Barrie Hopson",
+    "frase" : "Ninguém jamais ganha uma discussão com o cliente"
+  },
+  {
+    "id" : 169,
+    "autor" : "Thomas Fuller",
+    "frase" : "O hoje é aluno do ontem"
+  },
+  {
+    "id" : 170,
+    "autor" : "John F. Kennedy",
+    "frase" : "Jamais devemos negociar por medo, mas jamais devemos ter medo de negociar"
+  },
+  {
+    "id" : 171,
+    "autor" : "Fábio Eltz",
+    "frase" : "O tratamento deve sempre ser positivo, independente da circunstância"
+  },
+  {
+    "id" : 172,
+    "autor" : "Louisa May Alcott",
+    "frase" : "Não tenha medo de tempestades, pois estarás aprendendo a manejar o barco"
+  },
+  {
+    "id" : 173,
+    "autor" : "Derek Bok",
+    "frase" : "Se você pensa que educação é uma coisa cara, tente a ignorância"
+  },
+  {
+    "id" : 174,
+    "autor" : "Amelia Earhart",
+    "frase" : "A coisa mais difícil é a decisão de agir, o resto é apenas tenacidade"
+  },
+  {
+    "id" : 175,
+    "autor" : "Elizabeth Cady Stanton",
+    "frase" : "O autodesenvolvimento é um dever maior do que o auto-sacrifício"
+  },
+  {
+    "id" : 176,
+    "autor" : "Alexander Graham Bell",
+    "frase" : "Grandes descobertas e progressos envolvem a cooperação de várias mentes"
+  },
+  {
+    "id" : 177,
+    "autor" : "Sérgio Quartiermeister",
+    "frase" : "É preciso buscar fatias na multidão"
+  },
+  {
+    "id" : 178,
+    "autor" : "Provérbio japon",
+    "frase" : "Caia 7 vezes. Levante-se 8"
+  },
+  {
+    "id" : 179,
+    "autor" : "Simone de Beauvoir",
+    "frase" : "Ninguém nasce um gênio; a pessoa se torna um"
+  },
+  {
+    "id" : 180,
+    "autor" : "Lao Tzu",
+    "frase" : "Quando eu deixar de ser o que sou, eu irei me tornar o que poderia ser"
+  },
+  {
+    "id" : 181,
+    "autor" : "Steve Jobs",
+    "frase" : "Seu tempo é limitado, então não o gaste vivendo a vida de outra pessoa"
+  },
+  {
+    "id" : 182,
+    "autor" : "Oliver Wendell Holmes",
+    "frase" : "A mente humana, expandida por uma ideia nova, jamais retorna à dimensão original"
+  },
+  {
+    "id" : 183,
+    "autor" : "Sérgio Almeida",
+    "frase" : "A percepção é um ponto de vista individual. Portanto, não se discute"
+  },
+  {
+    "id" : 184,
+    "autor" : "Anderson Silva",
+    "frase" : "Você deve guardar um dragão dentro de si. Quando precisar, você deixa o dragão sair"
+  },
+  {
+    "id" : 185,
+    "autor" : "Vincent Van Gogh",
+    "frase" : "Eu preferiria morrer de paixão do que de tédio"
+  },
+  {
+    "id" : 186,
+    "autor" : "Gloria Steinem",
+    "frase" : "Sonhar, afinal, é uma forma de planejamento"
+  },
+  {
+    "id" : 187,
+    "autor" : "Benjamin Disraeli",
+    "frase" : "O segredo do sucesso é a constância do objetivo"
+  },
+  {
+    "id" : 188,
+    "autor" : "Benjamin Franklin",
+    "frase" : "Escreva algo que valha a pena ler, ou faça alguma coisa que valha a pena escrever"
+  },
+  {
+    "id" : 189,
+    "autor" : "Fela Moscovici",
+    "frase" : "Saber ouvir e ter equilíbrio emocional: fundamentais no atendimento ao cliente"
+  },
+  {
+    "id" : 190,
+    "autor" : "Orson Welles",
+    "frase" : "É preciso ter dúvidas. Só os estúpidos têm uma confiança absoluta em si mesmos"
+  },
+  {
+    "id" : 191,
+    "autor" : "Marie Curie",
+    "frase" : "Devemos crer que somos dotados de alguma coisa, e que essa coisa, deve ser atingida a todo custo"
+  },
+  {
+    "id" : 192,
+    "autor" : "Confúcio",
+    "frase" : "Tudo tem beleza. Mas nem todos podem ver"
+  },
+  {
+    "id" : 193,
+    "autor" : "Robert Peterson",
+    "frase" : "Prometa o que não irá cumprir e seus clientes formarão um mau conceito a seu respeito"
+  },
+  {
+    "id" : 194,
+    "autor" : "Pôster da IBM",
+    "frase" : "Se o índice de falha é de 1 em 1 milhão, o que você responde para esse cliente?"
+  },
+  {
+    "id" : 195,
+    "autor" : "Abigail Van Buren",
+    "frase" : "Se você deseja que seus filhos acabem bem, gaste o dobro de tempo com eles, e metade do dinheiro"
+  },
+  {
+    "id" : 196,
+    "autor" : "Manual da Nordstrom",
+    "frase" : "Use bom senso em todas as situações; não espere por regras novas, pois não virão"
+  },
+  {
+    "id" : 197,
+    "autor" : "George Lucas",
+    "frase" : "Todo mundo tem talento, é só uma questão de se mexer até descobrir qual"
+  },
+  {
+    "id" : 198,
+    "autor" : "John Nasbit",
+    "frase" : "Quanto mais nos defrontamos com tecnologia, maior nosso anseio por contatos humanos"
+  },
+  {
+    "id" : 199,
+    "autor" : "Provérbio grego",
+    "frase" : "Bem começado é meio caminho andado"
+  },
+  {
+    "id" : 200,
+    "autor" : "Buddha",
+    "frase" : "A mente é tudo. Você se torna aquilo que você pensa"
+  },
+  {
+    "id" : 201,
+    "autor" : "Donald Beaver Jr.",
+    "frase" : "Uma queixa é alguém avisando que você não o satisfez. E isso é escrito em ouro"
+  },
+  {
+    "id" : 202,
+    "autor" : "Júlio Ribeiro",
+    "frase" : "O medo de ousar, ser agressivo ou inovar fechou mais empresas do que a ousadia"
+  },
+  {
+    "id" : 203,
+    "autor" : "H. Ross Perot",
+    "frase" : "Minha primeira mensagem é: escute, escute e escute o pessoal que faz o trabalho"
+  },
+  {
+    "id" : 204,
+    "autor" : "Franklin D. Roosvelt",
+    "frase" : "A preguiça caminha tão devagar que a pobreza a alcança com rapidez"
+  },
+  {
+    "id" : 205,
+    "autor" : "Denis Walker",
+    "frase" : "Dos clientes insatisfeitos, apenas 5% efetivamente fez uma reclamação"
+  },
+  {
+    "id" : 206,
+    "autor" : "Henry David Thoreau",
+    "frase" : "Vá na direção de seus sonhos. Viva a vida que você imaginou"
+  },
+  {
+    "id" : 207,
+    "autor" : "Marcos Gouv",
+    "frase" : "Não existe empresa nota 10 com empregados nota 5"
+  },
+  {
+    "id" : 208,
+    "autor" : "Quin Guanshu",
+    "frase" : "Perder tempo é um castigo insuportável"
+  },
+  {
+    "id" : 209,
+    "autor" : "Chip Bell",
+    "frase" : "Serviços ao cliente não consistem em satisfação, mas sim em deslumbre"
+  },
+  {
+    "id" : 210,
+    "autor" : "Janis Joplin",
+    "frase" : "Você pode destruir o seu hoje se preocupando com o amanhã"
+  },
+  {
+    "id" : 211,
+    "autor" : "Fábio Eltz",
+    "frase" : "Todo cliente quer ser tratado como especial, não quer ser ‘mais um'"
+  },
+  {
+    "id" : 212,
+    "autor" : "Platão",
+    "frase" : "Começar é a parte mais importante de qualquer trabalho"
+  },
+  {
+    "id" : 213,
+    "autor" : "Ron Bern",
+    "frase" : "Nossa meta é resolver problemas antes que os clientes saibam que eles existam"
+  },
+  {
+    "id" : 214,
+    "autor" : "Nelson Mandela",
+    "frase" : "Uma boa cabeça e um bom coração formam sempre uma combinação formidável"
+  },
+  {
+    "id" : 215,
+    "autor" : "Kaoru Ishikawa",
+    "frase" : "Se você não tem item de controle, você não tem gerência"
+  },
+  {
+    "id" : 216,
+    "autor" : "John Tschohl",
+    "frase" : "Os colaboradores evitam as queixas pois eles nunca foram instruídos a lidar com elas"
+  },
+  {
+    "id" : 217,
+    "autor" : "Theodore Roosvelt",
+    "frase" : "O maior prêmio que a vida oferece é trabalhar em algo que valha a pena"
+  },
+  {
+    "id" : 218,
+    "autor" : "George Lichtenberg",
+    "frase" : "Um bom porta-voz transforma leite desnatado em chantilly"
+  },
+  {
+    "id" : 219,
+    "autor" : "J. Walters",
+    "frase" : "Um líder genuíno é motivador: orienta as pessoas, não as dirige; envolve, não as coage"
+  },
+  {
+    "id" : 220,
+    "autor" : "Kevin Kruse",
+    "frase" : "A vida não é sobre ter, é sobre dar e ser"
+  },
+  {
+    "id" : 221,
+    "autor" : "Karl Albrecht",
+    "frase" : "O resultado final de um serviço é um sentimento"
+  },
+  {
+    "id" : 222,
+    "autor" : "Terry Vavra",
+    "frase" : "O objetivo do marketing de relacionamento é a retenção de clientes"
+  },
+  {
+    "id" : 223,
+    "autor" : "Paul Deschanel",
+    "frase" : "Aqueles que nada fazem estão sempre dispostos a criticar os que fazem algo"
+  },
+  {
+    "id" : 224,
+    "autor" : "Juran",
+    "frase" : "Cliente é todo aquele impactado por seus produtos, processos e serviços"
+  },
+  {
+    "id" : 225,
+    "autor" : "Raimar Richers",
+    "frase" : "As empresas terão de adaptar-se às preferências individuais de cada consumidor ou sucumbirão"
+  },
+  {
+    "id" : 226,
+    "autor" : "Fiódor Dostoiévski",
+    "frase" : "Sente-se sufocado aquele sem um objetivo de vida"
+  },
+  {
+    "id" : 227,
+    "autor" : "Claus Moller",
+    "frase" : "Não critique a pessoa, somente o comportamento"
+  },
+  {
+    "id" : 228,
+    "autor" : "Horácio",
+    "frase" : "É doce deixar a mente relaxar de vez em quando"
+  },
+  {
+    "id" : 229,
+    "autor" : "Ken O",
+    "frase" : "O presente é o único momento que temos para fazer algo"
+  },
+  {
+    "id" : 230,
+    "autor" : "William Shakespeare",
+    "frase" : "Todo mundo é capaz de dominar uma dor, exceto quem a sente"
+  },
+  {
+    "id" : 231,
+    "autor" : "Richard Whiteley",
+    "frase" : "Desperdício é tudo aquilo que não representa valor para o cliente"
+  },
+  {
+    "id" : 232,
+    "autor" : "Thomas Carlyle",
+    "frase" : "A convicção é inútil – a menos que se transforme em conduta"
+  },
+  {
+    "id" : 233,
+    "autor" : "Phillip Crosby",
+    "frase" : "Quanto mais distante o administrador do administrado, menos eficiente a administração"
+  },
+  {
+    "id" : 234,
+    "autor" : "Dalai Lama",
+    "frase" : "A felicidade não é algo pronto. Ela vem de suas próprias ações"
+  },
+  {
+    "id" : 235,
+    "autor" : "Jefferson Le",
+    "frase" : "Devemos seguir o exemplo dos rios: dão suas águas ao mar e nunca ficam vazios"
+  },
+  {
+    "id" : 236,
+    "autor" : "Peter Drucker",
+    "frase" : "Meu maior poder como consultor é ser ignorante e fazer algumas perguntas"
+  },
+  {
+    "id" : 237,
+    "autor" : "L. L. Bean Inc",
+    "frase" : "O cliente é alguém que nos traz suas necessidades"
+  },
+  {
+    "id" : 238,
+    "autor" : "Elbert Hubbard",
+    "frase" : "O pior erro que você pode cometer em sua vida é ficar com medo de cometer algum erro"
+  },
+  {
+    "id" : 239,
+    "autor" : "Catherine Romano",
+    "frase" : "Se houver uma opção melhor, os clientes mudarão de fornecedor"
+  },
+  {
+    "id" : 240,
+    "autor" : "M. J. Babcock",
+    "frase" : "O alvo na vida não deve ser ultrapassar os outros, mas sim ultrapassar a nós mesmos"
+  },
+  {
+    "id" : 241,
+    "autor" : "Terrell Harris",
+    "frase" : "Quando são cometidos lapsos nos serviços, as vendas caem"
+  },
+  {
+    "id" : 242,
+    "autor" : "Publilius Syrus",
+    "frase" : "Jamais prometa mais do que pode fazer"
+  },
+  {
+    "id" : 243,
+    "autor" : "Milton Moore",
+    "frase" : "Se você for direto e honesto com seus clientes eles o tratarão como amigo"
+  },
+  {
+    "id" : 244,
+    "autor" : "Cesare Cant",
+    "frase" : "Não arriscar nada é arriscar tudo"
+  },
+  {
+    "id" : 245,
+    "autor" : "George Washington",
+    "frase" : "Não se comprometa a fazer o que não é capaz, mas preocupe-se em manter sua promessa"
+  },
+  {
+    "id" : 246,
+    "autor" : "Video Business Magazine",
+    "frase" : "Quando você atende ao telefone, a imagem da sua empresa é percebida do outro lado da linha"
+  },
+  {
+    "id" : 247,
+    "autor" : "Benjamin Franklin",
+    "frase" : "Um investimento em conhecimento sempre paga o maior juro"
+  },
+  {
+    "id" : 248,
+    "autor" : "Lunda Goldzimer",
+    "frase" : "Contrate o tipo de pessoa capaz de construir relações sólidas com os clientes"
+  },
+  {
+    "id" : 249,
+    "autor" : "George Gurdjieff",
+    "frase" : "Não abandone suas três grandes e inabaláveis amigas: a intuição, a inocência e a fé"
+  },
+  {
+    "id" : 250,
+    "autor" : "Geraldo Vandré",
+    "frase" : "Quem sabe faz a hora, não espera acontecer"
+  },
+  {
+    "id" : 251,
+    "autor" : "Peter Drucker",
+    "frase" : "A única coisa que sabemos sobre o futuro é que ele será diferente"
+  },
+  {
+    "id" : 252,
+    "autor" : "David Clutterbuck",
+    "frase" : "Quando você perde um cliente, perde transações futuras e propaganda boca a boca"
+  },
+  {
+    "id" : 253,
+    "autor" : "Harols Abbott",
+    "frase" : "Eu me sentia derrotado por não ter sapatos, até o dia que encontrei um homem que não tinha pés"
+  },
+  {
+    "id" : 254,
+    "autor" : "Paulo Apsan",
+    "frase" : "Uma empresa que não escuta o seu cliente está fadada ao insucesso"
+  },
+  {
+    "id" : 255,
+    "autor" : "Leo Burnett",
+    "frase" : "Se você não é notado, você não tem nada"
+  },
+  {
+    "id" : 256,
+    "autor" : "Abraham Lincoln",
+    "frase" : "Não são os anos de sua vida que contam. É a vida em seus anos"
+  },
+  {
+    "id" : 257,
+    "autor" : "Don Peppers",
+    "frase" : "O marketing de relacionamento reduz o impacto dos esforços feitos pela concorrência"
+  },
+  {
+    "id" : 258,
+    "autor" : "Heródoto",
+    "frase" : "É melhor ser invejado do que lastimado"
+  },
+  {
+    "id" : 259,
+    "autor" : "Walt Disney",
+    "frase" : "Você pode construir o mais belo lugar do mundo, mas serão as pessoas que tornarão realidade o sonho"
+  },
+  {
+    "id" : 260,
+    "autor" : "Reinaldo Polito",
+    "frase" : "Não existe técnica de comunicação mais relevante do que a naturalidade"
+  },
+  {
+    "id" : 261,
+    "autor" : "Carmen Miranda",
+    "frase" : "Na vida sempre fazemos escolhas. Ainda que escolhemos não escolher"
+  },
+  {
+    "id" : 262,
+    "autor" : "Sales and Marketing Magazine",
+    "frase" : "A melhor maneira de vender é facilitando a compra"
+  },
+  {
+    "id" : 263,
+    "autor" : "Samuel Smiles",
+    "frase" : "A cortesia tem um grande poder, e não custa nada"
+  },
+  {
+    "id" : 264,
+    "autor" : "Beverly Sills",
+    "frase" : "Você pode ficar desapontado se falhar, mas já está derrotado se não tentar"
+  },
+  {
+    "id" : 265,
+    "autor" : "Texas American Bank",
+    "frase" : "Se souber o nome do cliente, use em sua saudação"
+  },
+  {
+    "id" : 266,
+    "autor" : "Tom Peter e Nancy Austin",
+    "frase" : "Ofereça ao cliente algo que vale a pena e ele pagará o que vale"
+  },
+  {
+    "id" : 267,
+    "autor" : "Constantino C. Vigil",
+    "frase" : "Seja hoje melhor do que ontem e, amanhã, melhor do que hoje"
+  },
+  {
+    "id" : 268,
+    "autor" : "Oscar Wilde",
+    "frase" : "O acordo é o último recurso dos que não têm imaginação"
+  },
+  {
+    "id" : 269,
+    "autor" : "Richard Whiteley",
+    "frase" : "Lucro é vital, mas o cliente vem antes. Sem ele não há lucro"
+  },
+  {
+    "id" : 270,
+    "autor" : "Norman Vaughan",
+    "frase" : "Sonhe grande e se atreva a falhar"
+  },
+  {
+    "id" : 271,
+    "autor" : "David Ogilvy",
+    "frase" : "Eu sempre uso o produto dos meus clientes; não é bajulação, mas boas maneiras"
+  },
+  {
+    "id" : 272,
+    "autor" : "Mark van Doren",
+    "frase" : "Traga novas ideias e trate-as regiamente, pois uma delas pode ser o rei"
+  },
+  {
+    "id" : 273,
+    "autor" : "Dito popular",
+    "frase" : "Quem quer agradar a todo mundo não agrada a ninguém"
+  },
+  {
+    "id" : 274,
+    "autor" : "Samuel Johnson",
+    "frase" : "Leve é a tarefa quando muitos dividem o trabalho"
+  },
+  {
+    "id" : 275,
+    "autor" : "Linda Goldzimer",
+    "frase" : "Você seria seu próprio cliente?"
+  },
+  {
+    "id" : 276,
+    "autor" : "Vince Lombardi",
+    "frase" : "Ganhar não é tudo, mas querer ganhar é"
+  },
+  {
+    "id" : 277,
+    "autor" : "John Young",
+    "frase" : "Aquilo que você não pode medir não pode ser aperfeiçoado"
+  },
+  {
+    "id" : 278,
+    "autor" : "Charles Brower",
+    "frase" : "O conveniente e o correto raramente são a mesma coisa"
+  },
+  {
+    "id" : 279,
+    "autor" : "Gordon Spainhower",
+    "frase" : "A confiabilidade do serviço é fator mais importante de todos, duas vezes acima dos demais"
+  },
+  {
+    "id" : 280,
+    "autor" : "Albert Einstein",
+    "frase" : "Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo"
+  },
+  {
+    "id" : 281,
+    "autor" : "Claus Moller",
+    "frase" : "Você precisa ver seus erros para poder fazer algo a respeito deles"
+  },
+  {
+    "id" : 282,
+    "autor" : "Provérbio norte",
+    "frase" : "Se os ventos não vão servir, leve os remos"
+  },
+  {
+    "id" : 283,
+    "autor" : "Sérgio Quartiermeister",
+    "frase" : "Ninguém cativa um cliente sabendo apenas o nome e onde ele mora"
+  },
+  {
+    "id" : 284,
+    "autor" : "John Tschohol",
+    "frase" : "O trabalho de adivinhação torna inevitável a insatisfação"
+  },
+  {
+    "id" : 285,
+    "autor" : "Eleanor Roosvelt",
+    "frase" : "Quando deixamos de contribuir, começamos a morrer"
+  },
+  {
+    "id" : 286,
+    "autor" : "Laurent Svadon",
+    "frase" : "A chave do negócio é analisar cada cliente antes de servi-lo"
+  },
+  {
+    "id" : 287,
+    "autor" : "Kelly Young",
+    "frase" : "O problema não é o problema. O problema é a atitude com relação ao problema"
+  },
+  {
+    "id" : 288,
+    "autor" : "Tom Peters",
+    "frase" : "Verifique seus sentimentos à porta do escritório"
+  },
+  {
+    "id" : 289,
+    "autor" : "Carl Sewell",
+    "frase" : "Diga ‘obrigado’ sempre que tiver uma oportunidade"
+  },
+  {
+    "id" : 290,
+    "autor" : "Winston Churchill",
+    "frase" : "Você nunca vai chegar ao seu destino se você parar e atirar pedras em cada cão que late"
+  },
+  {
+    "id" : 291,
+    "autor" : "Leonard Berry",
+    "frase" : "A confiança dos clientes é o ativo mais valioso de uma companhia de serviços"
+  },
+  {
+    "id" : 292,
+    "autor" : "Sabedoria Persa",
+    "frase" : "Não ergas um edifício sem fortes alicerces ou viverás com medo"
+  },
+  {
+    "id" : 293,
+    "autor" : "Stephen Covey",
+    "frase" : "Trate seus funcionários assim como quer que eles tratem seus melhores clientes"
+  },
+  {
+    "id" : 294,
+    "autor" : "Lema do Ritz",
+    "frase" : "Somos damas e cavalheiros servindo damas e cavalheiros"
+  },
+  {
+    "id" : 295,
+    "autor" : "Albert Einstein",
+    "frase" : "Esforce-se para não ser um sucesso, mas sim para ser valioso"
+  },
+  {
+    "id" : 296,
+    "autor" : "Peter Francese",
+    "frase" : "Projete um sistema que equilibre processo, produto e medidas de satisfação"
+  },
+  {
+    "id" : 297,
+    "autor" : "William McKnight",
+    "frase" : "Ouça qualquer um que tenha uma ideia original. Encoraje-o. Deixe as pessoas continuarem suas ideias"
+  },
+  {
+    "id" : 298,
+    "autor" : "Phillip Crosby",
+    "frase" : "Satisfaça o cliente no começo, no fim e sempre"
+  },
+  {
+    "id" : 299,
+    "autor" : "Benjamin Franklin",
+    "frase" : "Eu não falhei no teste. Eu só encontrei 100 maneiras de fazer errado"
+  },
+  {
+    "id" : 300,
+    "autor" : "Júlio Lobos",
+    "frase" : "Quer segurança em um emprego? Faça um cliente feliz"
+  },
+  {
+    "id" : 301,
+    "autor" : "Antoine de Saint",
+    "frase" : "O essencial é invisível aos olhos"
+  },
+  {
+    "id" : 302,
+    "autor" : "Richard Whiteley",
+    "frase" : "Conheça seus clientes como sua família, satisfaça-os e você terá sucesso"
+  },
+  {
+    "id" : 303,
+    "autor" : "Sérgio Almeida",
+    "frase" : "Um cliente que reclama é um consultor. Aponta o que melhorar e não cobra nada por isso"
+  },
+  {
+    "id" : 304,
+    "autor" : "George Eliot",
+    "frase" : "Nunca é tarde demais para ser o que você poderia ter sido"
+  },
+  {
+    "id" : 305,
+    "autor" : "Jay Curry e Ludovic Stora",
+    "frase" : "Não existe melhor publicidade do que um cliente satisfeito"
+  },
+  {
+    "id" : 306,
+    "autor" : "Alvin Toffler",
+    "frase" : "Gerenciar não é mais a direção da coisa, mas o aperfeiçoamento das pessoas"
+  },
+  {
+    "id" : 307,
+    "autor" : "Carl Sewell",
+    "frase" : "A pessoa no comando não pode apenas pregar. Ela precisa liderar com exemplos"
+  },
+  {
+    "id" : 308,
+    "autor" : "Larry Light",
+    "frase" : "A marca é um símbolo que identifica uma promessa na cabeça do cliente"
+  },
+  {
+    "id" : 309,
+    "autor" : "Paulo Freire",
+    "frase" : "Não há saber mais ou saber menos: há saberes diferentes"
+  },
+  {
+    "id" : 310,
+    "autor" : "Jack Welck",
+    "frase" : "O papel do gerente é de orientar, energizar e estimular"
+  },
+  {
+    "id" : 311,
+    "autor" : "Booker T. Washington",
+    "frase" : "Se você quiser se levantar, levante outra pessoa"
+  },
+  {
+    "id" : 312,
+    "autor" : "John Sewell",
+    "frase" : "Você pode tosquiar o carneiro por muitos anos, mas poderá esfolá-lo somente uma vez"
+  },
+  {
+    "id" : 313,
+    "autor" : "H. W. Beecher",
+    "frase" : "Quanto maior a dificuldade maior é o mérito de superá-la"
+  },
+  {
+    "id" : 314,
+    "autor" : "Bill Bleuel",
+    "frase" : "Cuidar o lado emocional do cliente é mais importante do que consertar um equipamento"
+  },
+  {
+    "id" : 315,
+    "autor" : "Leonard Berry",
+    "frase" : "O cliente compra uma promessa e são obrigados a confiar que a empresa ira cumpri-la"
+  },
+  {
+    "id" : 316,
+    "autor" : "Ayn Rand",
+    "frase" : "A questão não é quem vai me deixar; mas sim, quem vai me impedir"
+  },
+  {
+    "id" : 317,
+    "autor" : "Claus Moller",
+    "frase" : "Certifique-se de que suas palavras e seus atos estão em harmonia"
+  },
+  {
+    "id" : 318,
+    "autor" : "Steven Leonard Jr.",
+    "frase" : "As pessoas estão atentas a você. A qualidade está no seu coração"
+  },
+  {
+    "id" : 319,
+    "autor" : "Edmund Burke",
+    "frase" : "Nossa paciência conquistará mais do que a nossa força"
+  },
+  {
+    "id" : 320,
+    "autor" : "Karl Albrecht",
+    "frase" : "Se os clientes não estão reclamando você está perdendo a oportunidade de ser melhor"
+  },
+  {
+    "id" : 321,
+    "autor" : "Larry Wilson",
+    "frase" : "Você pode mudar sem crescer, mas não pode crescer sem mudar"
+  },
+  {
+    "id" : 322,
+    "autor" : "Texas American Bank",
+    "frase" : "Agradeça com um sorriso a presença do cliente"
+  },
+  {
+    "id" : 323,
+    "autor" : "Ronald Osborn",
+    "frase" : "Você não crescerá a não ser que tente algo além daquilo que já domina"
+  },
+  {
+    "id" : 324,
+    "autor" : "Richard Whiteley",
+    "frase" : "Faça a voz do cliente ecoar em toda a empresa"
+  },
+  {
+    "id" : 325,
+    "autor" : "George Addair",
+    "frase" : "Tudo o que você sempre quis está do outro lado do seu medo"
+  },
+  {
+    "id" : 326,
+    "autor" : "Marry W. Shelley",
+    "frase" : "Nada contribui tanto para clarear a mente do que um objetivo claro"
+  },
+  {
+    "id" : 327,
+    "autor" : "Norman Vincent Peale",
+    "frase" : "Um único pensamento pode revolucionar sua vida"
+  },
+  {
+    "id" : 328,
+    "autor" : "John Tschohl",
+    "frase" : "Todo o marketing da sua empresa pode ser anulado por um único empregado grosseiro"
+  },
+  {
+    "id" : 329,
+    "autor" : "Fábio Eltz",
+    "frase" : "Quando compreende-se o que o cliente deseja, torna-se mais fácil atendê-lo"
+  },
+  {
+    "id" : 330,
+    "autor" : "Albert Schweitzer",
+    "frase" : "Só serão felizes aqueles que procurarem e encontrarem um meio de servir"
+  },
+  {
+    "id" : 331,
+    "autor" : "Linda Goldzimer",
+    "frase" : "A percepção que o cliente tem em relação ao seu produto é o que determina sua satisfação"
+  },
+  {
+    "id" : 332,
+    "autor" : "Coco Chanel",
+    "frase" : "O mais corajoso dos atos ainda é pensar com a própria cabeça"
+  },
+  {
+    "id" : 333,
+    "autor" : "Carl Sewell",
+    "frase" : "A coisa mais importante para o cliente é: você fez aquilo que prometeu?"
+  },
+  {
+    "id" : 334,
+    "autor" : "Booker T. Washington",
+    "frase" : "Nada que valha a pena acontece a alguém exceto o resultado do trabalho árduo"
+  },
+  {
+    "id" : 335,
+    "autor" : "Fortune Magazine",
+    "frase" : "A forma mais barata de manter clientes satisfeitos é servi-los bem desde o começo"
+  },
+  {
+    "id" : 336,
+    "autor" : "Don Peppers",
+    "frase" : "A melhor forma de ter clientes para sempre é oferecer a eles um negócio irrecusável"
+  },
+  {
+    "id" : 337,
+    "autor" : "Rosa Parks",
+    "frase" : "Tenho aprendido ao longo dos anos que, quando a mente está pronta, isso diminui o medo"
+  },
+  {
+    "id" : 338,
+    "autor" : "Lema da Bio",
+    "frase" : "O cliente é o chefe"
+  },
+  {
+    "id" : 339,
+    "autor" : "João Guimar",
+    "frase" : "Mestre não é quem sempre ensina, mas quem de repente aprende"
+  },
+  {
+    "id" : 340,
+    "autor" : "Bob Harbage",
+    "frase" : "Se não agrega valor, pare; se faz sentido para o cliente, prossiga"
+  },
+  {
+    "id" : 341,
+    "autor" : "Leonard Berry",
+    "frase" : "Os clientes sempre reconhecem quando alguém saiu do seu caminho para ajudá-los"
+  },
+  {
+    "id" : 342,
+    "autor" : "Albert Einstein",
+    "frase" : "Espíritos grandiosos sempre encontraram oposição violenta de mentes medíocres"
+  },
+  {
+    "id" : 343,
+    "autor" : "Cesare Romiti",
+    "frase" : "A busca da qualidade é um estado de espírito"
+  },
+  {
+    "id" : 344,
+    "autor" : "Frank Petro",
+    "frase" : "O que é realmente necessário em empresa que presta serviço são pessoas que gostem de pessoas"
+  },
+  {
+    "id" : 345,
+    "autor" : "Bertrand Russell",
+    "frase" : "É importante aprender a não se aborrecer com opiniões diferentes das suas"
+  },
+  {
+    "id" : 346,
+    "autor" : "Sérgio Almeida",
+    "frase" : "O melhor vendedor do mundo é um cliente encantado"
+  },
+  {
+    "id" : 347,
+    "autor" : "Roger Crowford",
+    "frase" : "Ter problemas na vida é inevitável. Ser derrotado por eles é opcional"
+  },
+  {
+    "id" : 348,
+    "autor" : "Paulo Apsan",
+    "frase" : "Limitar o foco ao cliente provoca uma espécie de cegueira para inovações"
+  },
+  {
+    "id" : 349,
+    "autor" : "Jaclyn Jeffrey",
+    "frase" : "A prestação de bons serviços nunca é acidental"
+  },
+  {
+    "id" : 350,
+    "autor" : "Cristóvão Colombo",
+    "frase" : "Você nunca pode atravessar o oceano até que você tenha coragem de perder de vista a costa"
+  },
+  {
+    "id" : 351,
+    "autor" : "Carl Sewell",
+    "frase" : "O que pode sair errado? Essa é a pergunta a se fazer ao projetar os seus sistemas"
+  },
+  {
+    "id" : 352,
+    "autor" : "Benjamin Franklin",
+    "frase" : "Toma conta do teu negócio ou ele tomará conta de ti"
+  },
+  {
+    "id" : 353,
+    "autor" : "Sérgio Almeida",
+    "frase" : "A satisfação do cliente é uma relação entre o que ele viu e o que ele esperava ver"
+  },
+  {
+    "id" : 354,
+    "autor" : "Provérbio espanhol",
+    "frase" : "Perde tudo quem perde o momento certo"
+  },
+  {
+    "id" : 355,
+    "autor" : "Claus Moller",
+    "frase" : "Combata a mediocridade – em si e nos outros"
+  },
+  {
+    "id" : 356,
+    "autor" : "Dalai Lama",
+    "frase" : "Lembre-se que não conseguir o que você quer é algumas vezes um lance de sorte"
+  },
+  {
+    "id" : 357,
+    "autor" : "Arthur Riedel",
+    "frase" : "Uma atitude vitoriosa é meio caminho andado para o sucesso"
+  },
+  {
+    "id" : 358,
+    "autor" : "James Belasco",
+    "frase" : "Agregar valor é resolver os problemas do cliente"
+  },
+  {
+    "id" : 359,
+    "autor" : "John Young",
+    "frase" : "Fazer rápido obriga-o a fazer certo logo na primeira vez"
+  },
+  {
+    "id" : 360,
+    "autor" : "Donald Beaver Jr.",
+    "frase" : "Devemos preferir as queixas aos cumprimentos"
+  },
+  {
+    "id" : 361,
+    "autor" : "Carl Sewell",
+    "frase" : "Todos os sorrisos do mundo não irão ajudá-lo se o produto ou serviço não for o que o cliente deseja"
+  },
+  {
+    "id" : 362,
+    "autor" : "Leonard Berry",
+    "frase" : "Um serviço excelente é uma estratégia de lucro"
+  },
+  {
+    "id" : 363,
+    "autor" : "Henry Ford",
+    "frase" : "Você pode tudo se tiver entusiasmo"
+  },
+  {
+    "id" : 364,
+    "autor" : "Carl Sandburg",
+    "frase" : "Não sei aonde vou, mas já estou no caminho"
+  },
+  {
+    "id" : 365,
+    "autor" : "Fortune Magazine",
+    "frase" : "Conte a verdade – ou não conte nada. Ninguém gosta de gente mentirosa"
+  },
+  {
+    "id" : 366,
+    "autor" : "Henry Ford",
+    "frase" : "O insucesso é uma oportunidade para recomeçar com mais inteligência"
+  }
+  {
+        "id": 367,
+        "frase": "Sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+        " autor ": "Winston Churchill"
+    },
+    {
+        "id": 368,
+        "frase": "Um homem pode ser tão grande quanto ele queira ser. Se você acredita em si mesmo e tem coragem, determinação, dedicação, iniciativa competitiva e se você está disposto a sacrificar as pequenas coisas da vida e pagar o preço pelas coisas que valem a pena, isso pode ser feito.",
+        "autor": "Vince Lombardi"
+    },
+    {
+        "id": 369,
+        "frase": "Não deixe que o medo de perder seja maior que a excitação de vencer.",
+        "autor": "Robert Kiyosaki"
+    },
+    {
+        "id": 370,
+        "frase": "Na minha experiência, há só uma motivação, e isso é o desejo. Nenhuma razão ou princípio contêm ele ou se levantam contra ele.",
+        "autor": "Jane Smiley"
+    },
+    {
+        "id": 371,
+        "frase": "Dificuldades reais podem ser superadas; apenas as imaginárias são insuperáveis.",
+        "autor": "Theodore N. Vail"
+    },
+    {
+        "id": 372,
+        "frase": "A fortuna fica ao lado daquele que ousa.",
+        "autor": "Virgil"
+    },
+    {
+        "id": 373,
+        "frase": "aqueles que são loucos o suficiente para pensar que podem mudar o mundo são os que o fazem",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 374,
+        "frase": "Pessoas raramente obtém sucesso a menos que se divirtam com o que fazem.",
+        "autor": "Dale Carnegie"
+    },
+    {
+        "id": 375,
+        "frase": "Não tenha medo de desistir do bom para ir ao grande",
+        "autor": "John D. Rockefeller"
+    },
+    {
+        "id": 376,
+        "frase": "Você tem que acordar cada manhã com determinação se você quer ir para a cama com satisfação.",
+        "autor": "George Lorimer"
+    },
+    {
+        "id": 377,
+        "frase": "Há dois tipos de pessoas que dirão que você não pode fazer diferença nesse mundo: aquelas que tem medo de tentar e aquelas que temem que você consiga.",
+        "autor": "Ray Goforth"
+    },
+    {
+        "id": 378,
+        "frase": "Você deve esperar grandes coisas de você mesmo antes de poder faze-las",
+        "autor": "Michael Jordan"
+    },
+    {
+        "id": 379,
+        "frase": "Ninguém pode fazer você se sentir inferior sem o seu consentimento.",
+        "autor": "Eleanor Roosevelt"
+    },
+    {
+        "id": 380,
+        "frase": "Pessoas bem sucedidas fazer o que pessoas não mal-sucedidas não estão dispostas a fazer. Não desejam que seja mais fácil, mas que sejam melhores.",
+        "autor": "Jim Rohn"
+    },
+    {
+        "id": 381,
+        "frase": "Conhecimento é estar ciente do que você pode fazer. Sabedoria é saber quando não fazer.",
+        "autor": "Anonymous "
+    },
+    {
+        "id": 382,
+        "frase": "Se você não esta disposto a arriscar o habitual, você terá que se contentar com o normal",
+        "autor": "Jim Rohn"
+    },
+    {
+        "id": 383,
+        "frase": "Pegue uma ideia. Faça dessa única ideia a sua vida - pense nela, sonhe com ela, viva essa ideia. Deixe o cérebro, os músculos, os nervos, todas as partes do seu corpo, estarem cheios dessa ideia, e apenas deixe todas as outras ideias em paz. Este é o caminho para o sucesso.",
+        "autor": "Swami Vivekananda"
+    },
+    {
+        "id": 384,
+        "frase": "A razão número um para as pessoas que falham na vida é porque ouvem seus amigos, família e vizinhos.",
+        "autor": "Napoleon Hill"
+    },
+    {
+        "id": 385,
+        "frase": "Nada no mundo é mais comum que pessoas mal-sucedidas com talento.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 386,
+        "frase": "A função da liderança é produzir mais líderes, não seguidores.",
+        "autor": "Ralph Nader"
+    },
+    {
+        "id": 387,
+        "frase": "Para realizar grandes coisas, devemos não apenas agir, mas também sonhar, não apenas planejar, mas também acreditar",
+        "autor": " Anatole France"
+    },
+    {
+        "id": 388,
+        "frase": "Boas coisas vem para as pessoas que esperam, mas coisas ainda melhores vêm para aquelas que vão e buscam.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 389,
+        "frase": "Bem-aventurados aqueles que podem dar sem lembrar e levar sem esquecer.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 390,
+        "frase": "Não levante sua voz, melhore seu argumento.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 391,
+        "frase": "O sucesso é ... conhecer o seu propósito na vida, crescer para alcançar o seu potencial máximo e semear as sementes que beneficiam os outros.",
+        "autor": " John C. Maxwell"
+    },
+    {
+        "id": 392,
+        "frase": "O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso.",
+        "autor": "Maya Angelou"
+    },
+    {
+        "id": 393,
+        "frase": "O que nos parece como julgamentos amargos são muitas vezes bênçãos disfarçadas",
+        "autor": " Oscar Wilde"
+    },
+    {
+        "id": 394,
+        "frase": "Oportunidades não acontecem, você as cria.",
+        "autor": "Chris Grosser"
+    },
+    {
+        "id": 395,
+        "frase": "O significado da vida é encontrar o seu dom. O propósito da vida é entregá-lo.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 396,
+        "frase": "A vida não é sobre encontrar a si mesmo. A vida é sobre criar você mesmo.",
+        "autor": "Lolly Daskal"
+    },
+    {
+        "id": 397,
+        "frase": "Eu não falhei. Apenas encontrei 10.000 maneiras que não funcionam.",
+        "autor": "Thomas A. Edison"
+    },
+    {
+        "id": 398,
+        "frase": "As coisas funcionam melhor para aqueles que fazem o melhor de como as coisas funcionam.",
+        "autor": "John Wooden"
+    },
+    {
+        "id": 399,
+        "frase": "Grandes mentes discutem ideias; mentes comuns discutem eventos; mentes pequenas discutem pessoas.",
+        "autor": "Eleanor Roosevelt"
+    },
+    {
+        "id": 400,
+        "frase": "Se você quer alcançar a excelência, pode chegar lá hoje. A partir deste segundo, pare de fazer um trabalho menos que excelente",
+        "autor": "Thomas J. Watson"
+    },
+    {
+        "id": 401,
+        "frase": "Empresários de sucesso são doadores e não tomadores de energia positiva.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 402,
+        "frase": "Se você não pode explicar isso simplesmente, você não entende bem o suficiente. ",
+        "autor": "Albert Einstein"
+    },
+    {
+        "id": 403,
+        "frase": "Para viver uma vida criativa, devemos perder o medo de estar errado.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 404,
+        "frase": "É melhor falhar na originalidade do que ter sucesso na imitação.",
+        "autor": "Herman Melville"
+    },
+    {
+        "id": 405,
+        "frase": "Nosso maior medo não deve ser o fracasso, mas o sucesso nas coisas da vida que realmente não importam.",
+        "autor": "Francis Chan"
+    },
+    {
+        "id": 406,
+        "frase": "Você mede o tamanho da conquista pelos obstáculos que você teve que superar para alcançar seus objetivos.",
+        "autor": "Booker T. Washington"
+    },
+    {
+        "id": 407,
+        "frase": "Nenhuma obra-prima foi criada por um artista preguiçoso.",
+        "autor": " Anonymous"
+    },
+    {
+        "id": 408,
+        "frase": "Um verdadeiro empreendedor é alguém que não tem rede de segurança por baixo deles.",
+        "autor": "Henry Kravis"
+    },
+    {
+        "id": 409,
+        "frase": "Coragem é resistência ao medo, domínio do medo - não ausência de medo",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 410,
+        "frase": "Todos os nossos sonhos podem se tornar realidade se tivermos coragem de persegui-los.",
+        "autor": "Walt Disney"
+    },
+    {
+        "id": 411,
+        "frase": "Quando eu me atrevo a ser poderoso - para usar minha força no serviço da minha visão, então torna-se cada vez menos importante se eu tenho medo.",
+        "autor": "Audre Lorde"
+    },
+    {
+        "id": 412,
+        "frase": "Pensar deve se tornar seu ativo de capital, não importa os altos e baixos que você encontra em sua vida.",
+        "autor": "Dr. APJ Kalam "
+    },
+    {
+        "id": 413,
+        "frase": "Seja miserável ou se motive. O que quer que tenha que ser feito, é sempre sua escolha.",
+        "autor": "Wayne Dyer"
+    },
+    {
+        "id": 414,
+        "frase": "Quando você pára de perseguir as coisas erradas, você dá as coisas certas a chance de pegar você.",
+        "autor": "Lolly Daskal"
+    },
+    {
+        "id": 415,
+        "frase": "Eu não quero chegar ao fim da minha vida e descobrir que eu vivi apenas o comprimento dela. Eu quero ter vivido a largura também",
+        "autor": "Diane Ackerman"
+    },
+    {
+        "id": 416,
+        "frase": "Para ser bem sucedido, você deve aceitar todos os desafios que surgem em seu caminho. Você não pode simplesmente aceitar os que você gosta.",
+        "autor": "Mike Gafka"
+    },
+    {
+        "id": 417,
+        "frase": "Se você não valoriza seu tempo, nem os outros irão. Pare de doar seu tempo e talentos - comece a cobrar por isso.",
+        "autor": "Kim Garst"
+    },
+    {
+        "id": 418,
+        "frase": "Sempre que você se encontra do lado da maioria, é hora de parar e refletir.",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 419,
+        "frase": "A felicidade é uma borboleta que, quando perseguida, está sempre além de seu alcance, mas que, se você se sentar em silêncio, pode pousar em você.",
+        "autor": "Nathaniel Hawthorne"
+    },
+    {
+        "id": 420,
+        "frase": "Eu acho que quando você tem um interesse real na vida e uma vida curiosa, esse sono não é a coisa mais importante.",
+        "autor": "Martha Stewart "
+    },
+    {
+        "id": 421,
+        "frase": "Só adie para amanhã o que você esta disposto a morrer tendo deixado desfeito.",
+        "autor": "Pablo Picasso"
+    },
+    {
+        "id": 422,
+        "frase": "Tente não se tornar uma pessoa de sucesso, mas tente se tornar uma pessoa de valor. ",
+        "autor": "Albert Einstein"
+    },
+    {
+        "id": 423,
+        "frase": "O primeiro passo em direção ao sucesso é dado quando você se recusa a ser prisioneiro do ambiente no qual você inicialmente se encontra.",
+        "autor": "Mark Caine"
+    },
+    {
+        "id": 424,
+        "frase": "O único lugar que o sucesso vem antes do trabalho é no dicionário.",
+        "autor": "Vidal Sassoon"
+    },
+    {
+        "id": 425,
+        "frase": "Se você não conceber o seu próprio plano de vida, é provável que caia no plano de outra pessoa. E adivinha o que eles planejaram para você? Não muito.",
+        "autor": " Jim Rohn"
+    },
+    {
+        "id": 426,
+        "frase": "Você não pode conectar os pontos olhando para frente; você só pode conectá-los olhando para trás. Então você tem que confiar que os pontos de alguma forma se conectarão no seu futuro. Você tem que confiar em algo - seu intestino, destino, vida, karma, qualquer coisa. Essa abordagem nunca me decepcionou, e isso fez toda a diferença na minha vida.",
+        "autor": "Steve Jobs"
+    },
+    {
+        "id": 427,
+        "frase": "O caminho para o sucesso e o caminho para o fracasso são quase exatamente os mesmos.",
+        "autor": "Colin R. Davis"
+    },
+    {
+        "id": 428,
+        "frase": "Faça todos os dias uma coisa que o assuste.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 429,
+        "frase": "As pessoas costumam dizer que a motivação não dura. Bem, nem banho - é por isso que recomendamos diariamente.",
+        "autor": "Zig Ziglar"
+    },
+    {
+        "id": 430,
+        "frase": "Confie porque você está disposto a aceitar o risco, não porque é seguro ou certo.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 431,
+        "frase": "Não é o que você olha que importa, é o que você vê.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 432,
+        "frase": "Se você realmente quer algo, não espere - se ensine a ser impaciente.",
+        "autor": "Gurbaksh Chahal"
+    },
+    {
+        "id": 433,
+        "frase": "Se você fizer o que você sempre fez, você terá o que sempre conseguiu.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 434,
+        "frase": "O sucesso é a soma de pequenos esforços, repetidos dia após dia.",
+        "autor": "Robert Collier"
+    },
+    {
+        "id": 435,
+        "frase": "Pessoas que conseguem ter sucesso. Quanto mais eles têm sucesso, mais eles querem ter sucesso, e mais eles encontram um caminho para ter sucesso. Da mesma forma, quando alguém está falhando, a tendência é entrar em uma espiral descendente que pode até se tornar uma profecia auto-realizável.",
+        "autor": "Tony Robbins"
+    },
+    {
+        "id": 436,
+        "frase": "Pequenas mentes são domadas e subjugadas pelo infortúnio; mas grandes mentes se erguem acima dela.",
+        "autor": "Washington Irving"
+    },
+    {
+        "id": 437,
+        "frase": "Não deixe o que você não pode fazer interferir com o que você pode fazer.",
+        "autor": "John R. Wooden"
+    },
+    {
+        "id": 438,
+        "frase": "Sucesso não consiste em nunca cometer erros, mas em nunca fazer o mesmo pela segunda vez.",
+        "autor": "George Bernard Shaw"
+    },
+    {
+        "id": 439,
+        "frase": "Todo o segredo de uma vida bem-sucedida é descobrir qual é o destino de cada um e, então, fazer.",
+        "autor": "Henry Ford"
+    },
+    {
+        "id": 440,
+        "frase": "Ao olharmos para o próximo século, os líderes serão aqueles que capacitarão os outros.",
+        "autor": "Bill Gates"
+    },
+    {
+        "id": 441,
+        "frase": "Motivação é o que te faz começar. Hábito é o que te mantém seguindo em frente.",
+        "autor": "Jim Ryun"
+    },
+    {
+        "id": 442,
+        "frase": "Qual é o ponto de estar vivo se você não tentar fazer algo notável?.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 443,
+        "frase": "Você pode ter que lutar uma batalha mais de uma vez para vencê-la",
+        "autor": "Margaret Thatcher"
+    },
+    {
+        "id": 444,
+        "frase": "Um homem de sucesso é aquele que pode estabelecer uma base sólida com os tijolos que outros jogaram nele.",
+        "autor": "David Brinkley"
+    },
+    {
+        "id": 445,
+        "frase": "Se você está atravessando o inferno, continue.",
+        "autor": "Winston Churchill"
+    },
+    {
+        "id": 446,
+        "frase": "Se você quer alcançar a grandeza, pare de pedir permissão.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 447,
+        "frase": "Apenas quando a lagarta pensava que o mundo estava acabando, ele se transformou em uma borboleta.",
+        "autor": "Proverb"
+    },
+    {
+        "id": 448,
+        "frase": "A razão pela qual a maioria das pessoas nunca alcança seus objetivos é que eles não os definem, nem os consideram seriamente como críveis ou viáveis. Os vencedores podem dizer para onde estão indo, o que planejam fazer no caminho e quem compartilhará a aventura com eles.",
+        "autor": "Denis Watiley"
+    },
+    {
+        "id": 449,
+        "frase": "A distância entre a insanidade e a genialidade é medida apenas pelo sucesso.",
+        "autor": "Bruce Feirstein"
+    },
+    {
+        "id": 450,
+        "frase": "O ponto de partida de toda conquista é o desejo.",
+        "autor": "Napolean Hill"
+    },
+    {
+        "id": 451,
+        "frase": "A maioria das coisas importantes no mundo foi realizada por pessoas que continuaram tentando quando parecia não haver ajuda.",
+        "autor": "Dale Carnegie"
+    },
+    {
+        "id": 452,
+        "frase": "A falha é o tempero que dá ao sucesso o seu .",
+        "autor": "Truman Capote"
+    },
+    {
+        "id": 453,
+        "frase": "O seu problema não é o problema. A sua reação é o problema.",
+        "autor": "Anonymous"
+    },
+    {
+        "id": 454,
+        "frase": "Todo progresso ocorre fora da zona de conforto.",
+        "autor": "Michael John Bobak"
+    },
+    {
+        "id": 455,
+        "frase": "Se você quiser fazer uma mudança permanente, pare de se concentrar no tamanho dos seus problemas e comece a focar no seu tamanho!",
+        "autor": "T. Harv Eker"
+    },
+    {
+        "id": 456,
+        "frase": "Desenvolver o sucesso a partir de suas falhas. O desânimo e fracasso são dois dos degraus mais seguro para o sucesso.",
+        "autor": "Dale Carnegie"
+    },
+    {
+        "id": 457,
+        "frase": "O guerreiro de sucesso é um homem médio, mas com um foco apurado como um raio laser.",
+        "autor": "Bruce Lee"
+    },
+    {
+        "id": 458,
+        "frase": "A melhor razão para começar uma organização é fazer sentido; para criar um produto ou serviço para tornar o mundo um lugar melhor.",
+        "autor": "Guy Kawasaki"
+    },
+    {
+        "id": 459,
+        "frase": "Inovação distingue um líder de um seguidor.",
+        "autor": "Steve Jobs"
+    },
+    {
+        "id": 460,
+        "frase": "Eu descobri que quanto mais eu trabalho, mais sorte eu pareço ter",
+        "autor": "Thomas Jefferson"
+    },
+    {
+        "id": 461,
+        "frase": "Sempre que você vê uma pessoa de sucesso, você só vê as glórias públicas, nunca os sacrifícios privados para alcançá-los..",
+        "autor": "Vaibhav Shah"
+    },
+    {
+        "id": 462,
+        "frase": "Nós nos tornamos o que pensamos a maior parte do tempo, e esse é o segredo mais estranho.",
+        "autor": "Earl Nightingale"
+    },
+    {
+        "id": 463,
+        "frase": "A persistência é o caminho do êxito.",
+        "autor": "Charles Chaplin"
+    },
+    {
+        "id": 464,
+        "frase": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.",
+        "autor": "José de Alencar"
+    },
+    {
+        "id": 465,
+        "frase": "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas acima de tudo, seja você sempre.",
+        "autor": "tumblr"
+    },
+    {
+        "id": 466,
+        "frase": "Só existe um êxito: a capacidade de levar a vida que se quer.",
+        "autor": "Cristopher Morley"
+    },
+    {
+        "id": 467,
+        "frase": "A vitalidade é demonstrada não apenas pela persistência, mas pela capacidade de começar de novo.",
+        "autor": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 468,
+        "frase": "A coragem não é ausência do medo; é a persistência apesar do medo.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 469,
+        "frase": "O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível.",
+        "autor": "Max Weber"
+    },
+    {
+        "id": 470,
+        "frase": "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.",
+        "autor": "Friedrich Nietzsche"
+    },
+    {
+        "id": 471,
+        "frase": "Todo mundo é capaz de sentir os sofrimentos de um amigo. Ver com agrado os seus êxitos exige uma natureza muito delicada.",
+        "autor": "Oscar Wilde"
+    },
+    {
+        "id": 472,
+        "frase": "Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante.",
+        "autor": "Augusto Branco"
+    },
+    {
+        "id": 473,
+        "frase": "Creia em si, mas não duvide sempre dos outros.",
+        "autor": "Machado de Assis"
+    },
+    {
+        "id": 474,
+        "frase": "Dois homens não podem passar meia hora juntos sem que um conquiste uma evidente superioridade em relação ao outro.",
+        "autor": "Samuel Johnson"
+    },
+    {
+        "id": 475,
+        "frase": "As únicas grandes companhias que conseguirão ter êxito são aquelas que consideram os seus produtos obsoletos antes que os outros o façam.",
+        "autor": "Bill Gates"
+    },
+    {
+        "id": 476,
+        "frase": "Talento é dom, é graça. E sucesso nada tem haver com sorte, mas com determinação e trabalho.",
+        "autor": "Augusto Branco"
+    },
+    {
+        "id": 477,
+        "frase": "Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 478,
+        "frase": "Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem.",
+        "autor": "Peter Drucker"
+    },
+    {
+        "id": 479,
+        "frase": "Nenhum mentiroso tem uma memória suficientemente boa para ser um mentiroso de êxito.",
+        "autor": "Abraham Lincoln"
+    },
+    {
+        "id": 480,
+        "frase": "Estar decidido, acima de qualquer coisa, é o segredo do êxito.",
+        "autor": "Henry Ford"
+    },
+    {
+        "id": 481,
+        "frase": "Para obter êxito no mundo temos de parecer loucos mas sermos espertos.",
+        "autor": "Barão de Montesquieu"
+    },
+    {
+        "id": 482,
+        "frase": "A disciplina é a mãe do êxito.",
+        "autor": "Ésquilo"
+    },
+    {
+        "id": 483,
+        "frase": "O segredo do êxito na vida de um homem está em preparar-se para aproveitar a ocasião, quando ela se apresenta.",
+        "autor": "Benjamin Disraeli"
+    },
+    {
+        "id": 484,
+        "frase": "A disciplina é a alma de um exército; torna grandes os pequenos contingentes, proporciona êxito aos fracos, e estima todos.",
+        "autor": "George Washington"
+    },
+    {
+        "id": 485,
+        "frase": "O êxito começa no exato momento em que o homem decide o que quer e começa a trabalhar para consegui-lo.",
+        "autor": "Roberto Flávio C. Silva"
+    },
+    {
+        "id": 486,
+        "frase": "A raiz do mal reside no fato de se insistir demasiadamente que no êxito da competição está a principal fonte de felicidade.",
+        "autor": "Bertrand Russell"
+    },
+    {
+        "id": 487,
+        "frase": "O êxito parece doce a quem não o alcança.",
+        "autor": "Emily Dickinson"
+    },
+    {
+        "id": 488,
+        "frase": "A persistência realiza o impossível.",
+        "autor": "Provérbio Chinês"
+    },
+    {
+        "id": 489,
+        "frase": "Persistência é a irmã gêmea da excelência. Uma é a mãe da qualidade, a outra é a mãe do tempo.",
+        "autor": "Marabel Morgan"
+    },
+    {
+        "id": 490,
+        "frase": "Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.",
+        "autor": "Martin Luther King"
+    },
+    {
+        "id": 491,
+        "frase": "Eu escolho um homem que não duvide de minha coragem, que não me acredite inocente, que tenha a coragem de me tratar como uma mulher.",
+        "autor": "Anaïs Nin"
+    },
+    {
+        "id": 492,
+        "frase": "As pessoas não carecem de força, carecem de determinação.",
+        "autor": "Victor Hugo"
+    },
+    {
+        "id": 493,
+        "frase": "A verdadeira esperança é uma qualidade, uma determinação heróica da alma. E a mais elevada forma de esperança é o desespero superado.",
+        "autor": "Georges Bernanos"
+    },
+    {
+        "id": 494,
+        "frase": "Da amizade entre mulheres Dizem-se amigas... Beijam-se... Mas qual! Haverá quem nisso creia? Salvo se uma das duas, por sinal, For muito velha, ou muito feia...",
+        "autor": "Mario Quintana"
+    },
+    {
+        "id": 495,
+        "frase": "Conserve os olhos fixos num ideal sublime, e lute sempre pelo que deseja, pois só os fracos desistem e só quem luta é digno de vida.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 496,
+        "frase": "Tudo deveria se tornar o mais simples possível, mas não simplificado.",
+        "autor": "Albert Einstein"
+    },
+    {
+        "id": 497,
+        "frase": "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.",
+        "autor": "São Francisco de Assis"
+    },
+    {
+        "id": 498,
+        "frase": "O erro acontece de vários modos, enquanto ser correto é possível apenas de um modo.",
+        "autor": "Aristóteles"
+    },
+    {
+        "id": 499,
+        "frase": "Não é possível ser bom pela metade.",
+        "autor": "Léon Tolstoi"
+    },
+    {
+        "id": 500,
+        "frase": "O milagre não prova o impossível; serve, apenas, como confirmação do que é possível.",
+        "autor": "Textos Judaicos"
+    },
+    {
+        "id": 501,
+        "frase": "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho.",
+        "autor": "Abraham Lincoln"
+    },
+    {
+        "id": 502,
+        "frase": "A impaciência é um grande obstáculo para o bom êxito.",
+        "autor": "Napoleão Bonaparte"
+    },
+    {
+        "id": 503,
+        "frase": "Não procure ser um homem com êxito, e sim um homem com valores.",
+        "autor": "Albert Einstein"
+    },
+    {
+        "id": 504,
+        "frase": "O êxito é fácil de obter. O difícil é merecê-lo.",
+        "autor": "Albert Camus"
+    },
+    {
+        "id": 505,
+        "frase": "O êxito na vida não significa apenas ser bem sucedido, mas também sobrepor-se aos fracassos.",
+        "autor": "Maxwell Maltz"
+    },
+    {
+        "id": 506,
+        "frase": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
+        "autor": "Roberto Shinyashiki"
+    },
+    {
+        "id": 507,
+        "frase": "A nossa maior glória não reside no fato de nunca cairmos, mas sim em levantarmo-nos sempre depois de cada queda.",
+        "autor": "Oliver Goldsmith"
+    },
+    {
+        "id": 508,
+        "frase": "Transportai um punhado de terra todos os dias e fareis uma montanha.",
+        "autor": "Confúcio"
+    },
+    {
+        "id": 509,
+        "frase": "Seja como os pássaros que, ao pousarem um instante sobre ramos muito leves, sentem-nos ceder, mas cantam! Eles sabem que possuem asas.",
+        "autor": "Victor Hugo"
+    },
+    {
+        "id": 510,
+        "frase": "A força não provém da capacidade física. Provém de uma vontade indomável.",
+        "autor": "Mahatma Gandhi"
+    },
+    {
+        "id": 511,
+        "frase": "O número dos que nos invejam confirma as nossas capacidades.",
+        "autor": "Oscar Wilde"
+    },
+    {
+        "id": 512,
+        "frase": "Nas pessoas de capacidade limitada, a modéstia não passa de mera honestidade, mas em quem possui grande talento, é hipocrisia.",
+        "autor": "Arthur Schopenhauer"
+    },
+    {
+        "id": 513,
+        "frase": "Quem sabe concentrar-se numa coisa e insistir nela como único objetivo, obtém a capacidade de fazer qualquer coisa.",
+        "autor": "Mahatma Gandhi"
+    },
+    {
+        "id": 514,
+        "frase": "É capaz quem pensa que é capaz.",
+        "autor": "Buda"
+    },
+    {
+        "id": 515,
+        "frase": "O ser capaz mora perto da necessidade.",
+        "autor": "Pitágoras"
+    },
+    {
+        "id": 516,
+        "frase": "LEGÍTIMA APROPRIAÇÃO Copio e assino essa frase encontrada no velho Schopenhauer: \"A soma de barulho que uma pessoa pode suportar está na razão inversa de sua capacidade mental\".",
+        "autor": "Mario Quintana"
+    },
+    {
+        "id": 517,
+        "frase": "A capacidade pouco vale sem oportunidade.",
+        "autor": "Napoleão Bonaparte"
+    },
+    {
+        "id": 518,
+        "frase": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.",
+        "autor": "Cynthia Kersey"
+    },
+    {
+        "id": 519,
+        "frase": "Se a sua vida for a melhor coisa que já te aconteceu, acredite, você tem mais sorte do que pode imaginar.",
+        "autor": "Daniel Godri"
+    },
+    {
+        "id": 520,
+        "frase": "Quer você acredite que consiga fazer uma coisa ou não, você está certo.",
+        "autor": "Henry Ford"
+    },
+    {
+        "id": 521,
+        "frase": "Acredite em si. Engate a mente na sua boa estrela e reconheça que a sua luz interior o conduzirá sempre para cima e para frente.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 522,
+        "frase": "Ninguém é assim tão velho que não acredite que poderá viver por mais um ano.",
+        "autor": "Cícero"
+    },
+    {
+        "id": 523,
+        "frase": "Jamais desista das pessoas que ama. Jamais desista de ser feliz. Lute sempre pelos seus sonhos. Seja profundamente apaixonado pela vida. Pois a vida é um espetáculo imperdível.",
+        "autor": "Augusto Cury"
+    },
+    {
+        "id": 524,
+        "frase": "Deus, ao criar o homem, superestimou a Sua capacidade.",
+        "autor": "Oscar Wilde"
+    },
+    {
+        "id": 525,
+        "frase": "Inteligência é a capacidade de se adaptar à mudança.",
+        "autor": "Stephen Hawking"
+    },
+    {
+        "id": 526,
+        "frase": "Maravilhas nunca faltaram ao mundo; o que sempre falta é a capacidade de senti-las e admirá-las.",
+        "autor": "Mario Quintana"
+    },
+    {
+        "id": 527,
+        "frase": "Capacidade de saber cada vez mais sobre cada vez menos, até saber tudo sobre nada.",
+        "autor": "Millôr Fernandes"
+    },
+    {
+        "id": 528,
+        "frase": "A liderança é a capacidade de conseguir que as pessoas façam o que não querem fazer e gostem de o fazer.",
+        "autor": "Harry Truman"
+    },
+    {
+        "id": 529,
+        "frase": "O amor é a arte de criar algo com a ajuda da capacidade do outro.",
+        "autor": "Bertolt Brecht"
+    },
+    {
+        "id": 530,
+        "frase": "Tato é a capacidade de se descrever os outros tal como eles se julgam.",
+        "autor": "Abraham Lincoln"
+    },
+    {
+        "id": 531,
+        "frase": "A sabedoria dos homens é proporcional não à sua experiência mas à sua capacidade de adquirir experiência.",
+        "autor": "George Bernard Shaw"
+    },
+    {
+        "id": 532,
+        "frase": "Os grandes homens estão muitas vezes solitários. Mas essa solidão é parte da sua capacidade de criar. O caráter, assim como a fotografia, desenvolve-se no escuro.",
+        "autor": "Youssuf Karsh"
+    },
+    {
+        "id": 533,
+        "frase": "Nenhuma paixão pode, como o medo, tão efectivamente roubar o espírito da capacidade de agir e pensar.",
+        "autor": "Edmund Burke"
+    },
+    {
+        "id": 534,
+        "frase": "Pensamento duplo indica a capacidade de ter na mente, ao mesmo tempo, duas opiniões contraditórias e aceitar ambas.",
+        "autor": "George Orwell"
+    },
+    {
+        "id": 535,
+        "frase": "A marca de uma inteligência de primeira ordem é a capacidade de ter duas ideias opostas presentes no espírito ao mesmo tempo e nem por isso deixar de funcionar.",
+        "autor": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 536,
+        "frase": "[Sobre o Xadrez] Jogo chinês que aumenta a capacidade de jogar xadrez.",
+        "autor": "Millôr Fernandes"
+    },
+    {
+        "id": 537,
+        "frase": "Usa a capacidade que tens. A floresta ficaria mais silenciosa se só o melhor pássaro cantasse.",
+        "autor": "Henry Van Dyke"
+    },
+    {
+        "id": 538,
+        "frase": "Querer vencer significa já ter percorrido metade do caminho.",
+        "autor": "Paderewsky"
+    },
+    {
+        "id": 539,
+        "frase": "Não somos sempre o que queremos, mas o que as circunstâncias nos permitem ser.",
+        "autor": "Marquês de Maricá"
+    },
+    {
+        "id": 540,
+        "frase": "Felicidade não é ter o que você quer, é querer o que você tem. (Livro: Quem mexeu no meu queijo?)",
+        "autor": "Spencer Johnson"
+    },
+    {
+        "id": 541,
+        "frase": "A única forma de chegar ao impossível é acreditar que é possível.",
+        "autor": "Alice no País das Maravilhas"
+    },
+    {
+        "id": 542,
+        "frase": "Não se pode ensinar nada a um homem; só é possivel ajudá-lo a encontrar a coisa dentro de si.",
+        "autor": "Galileu Galilei"
+    },
+    {
+        "id": 543,
+        "frase": "Não é possível convencer um crente de coisa alguma, pois suas crenças não se baseiam em evidências; baseiam-se numa profunda necessidade de acreditar.",
+        "autor": "Carl Sagan"
+    },
+    {
+        "id": 544,
+        "frase": "Só é possível ensinar uma criança a amar, amando-a.",
+        "autor": "Johann Goethe"
+    },
+    {
+        "id": 545,
+        "frase": "Não se pode acreditar que é possível ser feliz procurando a infelicidade alheia.",
+        "autor": "Sêneca"
+    },
+    {
+        "id": 546,
+        "frase": "Por sabedoria entendo a arte de tornar a vida mais agradável e feliz possível.",
+        "autor": "Arthur Schopenhauer"
+    },
+    {
+        "id": 547,
+        "frase": "É possível amar e não ser feliz, é possível ser feliz e não amar, mas amar e simultaneamente ser feliz, isso seria milagre.",
+        "autor": "Honoré de Balzac"
+    },
+    {
+        "id": 548,
+        "frase": "O mais belo estado da vida é a dependência livre e voluntária: e como seria ela possível sem amor?",
+        "autor": "Johann Goethe"
+    },
+    {
+        "id": 549,
+        "frase": "A um homem bom não é possível que ocorra nenhum mal, nem em vida nem em morte.",
+        "autor": "Sócrates"
+    },
+    {
+        "id": 550,
+        "frase": "Como se fosse possível matar o tempo sem ferir a eternidade.",
+        "autor": "Henry David Thoreau"
+    },
+    {
+        "id": 551,
+        "frase": "O homem que empenha todo o seu trabalho e imaginação em oferecer por um dólar o mais possível, em vez de menos, está condenado ao sucesso.",
+        "autor": "Henry Ford"
+    },
+    {
+        "id": 552,
+        "frase": "Os outros são realmente terríveis. A única sociedade possível é a de nós mesmos.",
+        "autor": "Oscar Wilde"
+    },
+    {
+        "id": 553,
+        "frase": "Não é possível chorar e pensar ao mesmo tempo, pois cada pensamento absorve uma lágrima.",
+        "autor": "Jules Renard"
+    },
+    {
+        "id": 554,
+        "frase": "É inútil dizer \"estamos a fazer o possível\". Precisamos de fazer o que é necessário.",
+        "autor": "Winston Churchill"
+    },
+    {
+        "id": 555,
+        "frase": "Não é a linguagem de programação que define o programador, mas sim sua lógica.",
+        "autor": "David Ribeiro Guilherme"
+    },
+    {
+        "id": 556,
+        "frase": "Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos.",
+        "autor": "James Cameron"
+    },
+    {
+        "id": 557,
+        "frase": "Ter sucesso é falhar repetidamente, mas sem perder o entusiasmo!",
+        "autor": "Winston Churchill"
+    },
+    {
+        "id": 558,
+        "frase": "[Em arte] o impossível verosímil é preferível ao possível não acreditável.",
+        "autor": "Aristóteles"
+    },
+    {
+        "id": 559,
+        "frase": "Como é possível que, sendo as criancinhas tão inteligentes, a maioria das pessoas sejam tão tolas? A educação deve ter algo a ver com isso!",
+        "autor": "Alexandre Dumas (filho)"
+    },
+    {
+        "id": 560,
+        "frase": "Para que resulte o possível deve ser tentado o impossível.",
+        "autor": "Hermann Hesse"
+    },
+    {
+        "id": 561,
+        "frase": "É possível mudar nossas vidas e a atitude daqueles que nos cercam simplesmente mudando a nós mesmos.",
+        "autor": "Rudolf Dreikurs"
+    },
+    {
+        "id": 562,
+        "frase": "Basta ajuizar bem para bem fazer, e julgar o melhor que nos seja possível para fazermos também o nosso melhor.",
+        "autor": "René Descartes"
+    },
+    {
+        "id": 563,
+        "frase": "Se fosse possível somente deslizar para os braços da mulher e no entanto não cair nas suas mãos.",
+        "autor": "Henry de Montherlant"
+    },
+    {
+        "id": 564,
+        "frase": "Sem passar da porta de casa, é possível saber o que acontece no mundo... Quanto mais longe se busca o saber, menos se aprende.",
+        "autor": "Lao-Tsé"
+    },
+    {
+        "id": 565,
+        "frase": "Como é possível esperar que a humanidade ouça conselhos, se nem sequer ouve as advertências.",
+        "autor": "Jonathan Swift"
+    },
+    {
+        "id": 566,
+        "frase": "Divide as dificuldades que tenhas de examinar em tantas partes quantas for possível, para uma melhor solução.",
+        "autor": "René Descartes"
+    },
+    {
+        "id": 567,
+        "frase": "É-nos possível viver sozinhos, desde que seja à espera de alguém.",
+        "autor": "Gilbert Cesbron"
+    },
+    {
+        "id": 568,
+        "frase": "Pedir demasiado é a maneira mais segura de receber ainda menos do que é possível.",
+        "autor": "Bertrand Russell"
+    },
+    {
+        "id": 569,
+        "frase": "Com leis ruins e funcionários bons ainda é possível governar. Mas com funcionários ruins as melhores leis não servem para nada.",
+        "autor": "Otto von Bismarck"
+    },
+    {
+        "id": 570,
+        "frase": "Contra os ataques é possível nos defendermos: contra o elogio não se pode fazer nada.",
+        "autor": "Sigmund Freud"
+    },
+    {
+        "id": 571,
+        "frase": "Visto que o fundamento da propriedade é a utilidade, onde não houver utilidade possível não pode existir propriedade.",
+        "autor": "Jean Jacques Rousseau"
+    },
+    {
+        "id": 572,
+        "frase": "O que mais desespera, não é o impossível. Mas o possível não alcançado.",
+        "autor": "Robert Mallet"
+    },
+    {
+        "id": 573,
+        "frase": "Terrível é que não é possível viver com as mulheres, nem sem elas.",
+        "autor": "George [Lord] Byron"
+    },
+    {
+        "id": 574,
+        "frase": "A imaginação é a rainha do real e o possível é uma das províncias do real.",
+        "autor": "Charles Baudelaire"
+    },
+    {
+        "id": 575,
+        "frase": "Penso que é indispensável fazer um grande mal momentâneo para que venha a ser possível um grande bem duradouro.",
+        "autor": "Denis Diderot"
+    },
+    {
+        "id": 576,
+        "frase": "Somente nas infelicidades é possível conhecer os verdadeiros amigos.",
+        "autor": "Públio Siro"
+    },
+    {
+        "id": 577,
+        "frase": "É possível ser jovem sem ter dinheiro, mas não se pode ser velho sem ele.",
+        "autor": "Tennessee Williams"
+    },
+    {
+        "id": 578,
+        "frase": "Ama-se a vitória difícil, porque a derrota lhe preenchia quase todo o espaço possível. E foi com o que restava que se venceu em todo ele.",
+        "autor": "Vergílio Ferreira"
+    },
+    {
+        "id": 579,
+        "frase": "Sem o amor-próprio nenhuma vida é possível, nem sequer a mais leve decisão, só desespero e rigidez.",
+        "autor": "Hugo Hofmannsthal"
+    },
+    {
+        "id": 580,
+        "frase": "É preciso escrever o mais possível como se falasse e não falar demais como se escrevesse.",
+        "autor": "Charles Saint-Beuve"
+    },
+    {
+        "id": 581,
+        "frase": "Não sendo possível fazer-se com que aquilo que é justo seja forte, faz-se com que o que é forte seja justo.",
+        "autor": "Blaise Pascal"
+    },
+    {
+        "id": 582,
+        "frase": "É possível guardar na mente um milhão de fatos e ainda assim ser totalmente sem educação.",
+        "autor": "Alec Bourne"
+    },
+    {
+        "id": 583,
+        "frase": "Verifiquei que, aos homens, se devia agradecer o menos possível, porque o reconhecimento que lhes testemunhamos os convence, facilmente, de que estão a fazer de mais!",
+        "autor": "Benjamin Constant"
+    },
+    {
+        "id": 584,
+        "frase": "Você tem que acordar cada manhã com determinação se você pretende ir para a cama com satisfação.",
+        "autor": "George Lorimer"
+    },
+    {
+        "id": 585,
+        "frase": "Para conhecermos os amigos é necessário passar pelo sucesso e pela desgraça. No sucesso, verificamos a quantidade e, na desgraça, a qualidade.",
+        "autor": "Confúcio"
+    },
+    {
+        "id": 586,
+        "frase": "Procure ser um homem de valor, em vez de ser um homem de sucesso.",
+        "autor": "Albert Einstein"
+    },
+    {
+        "id": 587,
+        "frase": "Conhecer o homem - esta é a base de todo o sucesso.",
+        "autor": "Charles Chaplin"
+    },
+    {
+        "id": 588,
+        "frase": "O sucesso é um professor perverso. Ele seduz as pessoas inteligentes e as faz pensar que jamais vão cair.",
+        "autor": "Bill Gates"
+    },
+    {
+        "id": 589,
+        "frase": "Vamos agradecer aos idiotas. Não fosse por eles não faríamos tanto sucesso.",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 590,
+        "frase": "O termômetro do sucesso é apenas a inveja dos descontentes.",
+        "autor": "Salvador Dalí"
+    },
+    {
+        "id": 591,
+        "frase": "Em todas as coisas o sucesso depende de uma preparação prévia, e sem tal preparação o falhanço é certo.",
+        "autor": "Confúcio"
+    },
+    {
+        "id": 592,
+        "frase": "O sucesso é uma consequência e não um objetivo.",
+        "autor": "Gustave Flaubert"
+    },
+    {
+        "id": 593,
+        "frase": "Há poucos homens capazes de prestar homenagem ao sucesso de um amigo, sem qualquer inveja.",
+        "autor": "Ésquilo"
+    },
+    {
+        "id": 594,
+        "frase": "Para ter sucesso neste mundo não basta ser estúpido, é preciso também ter boas maneiras.",
+        "autor": "Voltaire"
+    },
+    {
+        "id": 595,
+        "frase": "A moderação é uma coisa fatal (...). Nada tem mais sucesso do que o excesso.",
+        "autor": "Oscar Wilde"
+    },
+    {
+        "id": 596,
+        "frase": "O segredo do sucesso é a constância do propósito.",
+        "autor": "Benjamin Disraeli"
+    },
+    {
+        "id": 597,
+        "frase": "Uma paixão forte por qualquer objeto assegurará o sucesso, porque o desejo pelo objetivo mostrará os meios.",
+        "autor": "William Hazlitt"
+    },
+    {
+        "id": 598,
+        "frase": "O sucesso torna as pessoas modestas, amigáveis e tolerantes; é o fracasso que as faz ásperas e ruins.",
+        "autor": "W. Somerset Maugham"
+    },
+    {
+        "id": 599,
+        "frase": "Saber quando se deve esperar é o grande segredo do sucesso.",
+        "autor": "Xavier Maistre"
+    },
+    {
+        "id": 600,
+        "frase": "Levei vinte anos para fazer sucesso da noite para o dia.",
+        "autor": "Eddie Cantor"
+    },
+    {
+        "id": 601,
+        "frase": "Eu preferiria ser um fracasso em algo que amo do que um sucesso em algo que odeio.",
+        "autor": "George Burns"
+    },
+    {
+        "id": 602,
+        "frase": "Tudo o que é preciso na vida é ignorância e confiança; depois, o sucesso está garantido.",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 603,
+        "frase": "A confiança em si mesmo é o primeiro segredo do sucesso.",
+        "autor": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 604,
+        "frase": "O sucesso tem sido sempre um grande mentiroso.",
+        "autor": "Friedrich Nietzsche"
+    },
+    {
+        "id": 605,
+        "frase": "Que sua colheita seja abundante e eterna e o sorriso da felicidade e do sucesso enfeite os seus lábios.",
+        "autor": "Lauro Trevisan"
+    },
+    {
+        "id": 606,
+        "frase": "O segredo do sucesso é ofender o maior número de pessoas.",
+        "autor": "George Bernard Shaw"
+    },
+    {
+        "id": 607,
+        "frase": "Os homens que se tornam arrogantes com o sucesso têm o mau hábito de odiarem aqueles a quem ofenderam.",
+        "autor": "Sêneca"
+    },
+    {
+        "id": 608,
+        "frase": "A chave do sucesso da Sony e para tudo nos negócios é...não seguir os outros.",
+        "autor": "Masura Ibuki"
+    },
+    {
+        "id": 609,
+        "frase": "O sucesso é uma viagem, não um ponto de destino.",
+        "autor": "Bem Sweetland"
+    },
+    {
+        "id": 610,
+        "frase": "Quando sobes a montanha do sucesso não encontras um amigo.",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 611,
+        "frase": "O sucesso e o amor preferem o corajoso.",
+        "autor": "Ovídio"
+    },
+    {
+        "id": 612,
+        "frase": "Eu sei o preço do sucesso: dedicação, trabalho duro, e uma incessante devoção às coisas que você quer ver acontecer.",
+        "autor": "Frank Lloyd Wright"
+    },
+    {
+        "id": 613,
+        "frase": "O fracasso e o sucesso são impostores. Ninguém fracassa tanto como imagina. Ninguém tem tanto sucesso como imagina.",
+        "autor": "Rudyard Kipling"
+    },
+    {
+        "id": 614,
+        "frase": "Recompense o sucesso e o fracasso igualmente - puna a inatividade.",
+        "autor": "David Kelley"
+    },
+    {
+        "id": 615,
+        "frase": "O maior orador do mundo é o sucesso.",
+        "autor": "Napoleão Bonaparte"
+    },
+    {
+        "id": 616,
+        "frase": "Perseguir, sem cessar, uma meta: Este é o segredo do sucesso.",
+        "autor": "Anna Pavlova"
+    },
+    {
+        "id": 617,
+        "frase": "Você nunca alcança o sucesso verdadeiro a menos que você goste do que está fazendo.",
+        "autor": "Dale Carnegie"
+    },
+    {
+        "id": 618,
+        "frase": "O sucesso é construído de 99 por cento de fracasso.",
+        "autor": "Soichiro Honda"
+    },
+    {
+        "id": 619,
+        "frase": "Sucesso é saber a diferença entre perseguir as pessoas e fazer com que as pessoas fiquem do seu lado.",
+        "autor": "Desconhecido"
+    },
+    {
+        "id": 620,
+        "frase": "Um dos segredos do sucesso é se recusar a deixar que reveses temporários nos derrotem.",
+        "autor": "Mary Kay"
+    },
+    {
+        "id": 621,
+        "frase": "O sucesso encoraja-os: eles podem porque pensam que podem.",
+        "autor": "Virgílio"
+    },
+    {
+        "id": 622,
+        "frase": "O único critério infalível de sabedoria para as mentes banais - sucesso.",
+        "autor": "Edmund Burke"
+    },
+    {
+        "id": 623,
+        "frase": "O sucesso é a soma de pequenos esforços - repetidos dia sim, e no outro dia também.",
+        "autor": "Robert Collier"
+    },
+    {
+        "id": 624,
+        "frase": "A disciplina é a parte mais importante do sucesso.",
+        "autor": "Truman Capote"
+    },
+    {
+        "id": 625,
+        "frase": "Parecer o que se é, é um crime; parecer o que não se é, um sucesso.",
+        "autor": "Madame Émile Girardin"
+    },
+    {
+        "id": 626,
+        "frase": "Os malvados que têm sucesso são insuportáveis.",
+        "autor": "Ésquilo"
+    },
+    {
+        "id": 627,
+        "frase": "A disciplina é a mãe do sucesso.",
+        "autor": "Ésquilo"
+    },
+    {
+        "id": 628,
+        "frase": "A sorte existe. O que mais pode explicar o sucesso de nossos concorrentes?",
+        "autor": "Gen Matejka"
+    },
+    {
+        "id": 629,
+        "frase": "Uma auto-imagem forte e positiva é a melhor preparação possível para o  sucesso.",
+        "autor": "Joyce Brothers"
+    },
+    {
+        "id": 630,
+        "frase": "Coragem é a resistência ao medo, domínio do medo, e não a ausência do medo.",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 631,
+        "frase": "O amor é uma flor delicada, mas é preciso ter coragem de ir colhê-la à beira de um precipício.",
+        "autor": "Stendhal"
+    },
+    {
+        "id": 632,
+        "frase": "Ser profundamente amado por alguém nos dá força; amar alguém profundamente nos dá coragem.",
+        "autor": "Lao-Tse"
+    },
+    {
+        "id": 633,
+        "frase": "A coragem é a primeira das qualidades humanas porque garante todas as outras.",
+        "autor": "Aristóteles"
+    },
+    {
+        "id": 634,
+        "frase": "Saber o que é correto e não o fazer é falta de coragem.",
+        "autor": "Confúcio"
+    },
+    {
+        "id": 635,
+        "frase": "Quem perde seus bens perde muito; quem perde um amigo perde mais; mas quem perde a coragem perde tudo.",
+        "autor": "Miguel de Cervantes"
+    },
+    {
+        "id": 636,
+        "frase": "Pois a coragem cresce com a ocasião.",
+        "autor": "William Shakespeare"
+    },
+    {
+        "id": 637,
+        "frase": "Os homens semeiam na terra o que colherão na vida espiritual: os frutos da sua coragem ou da sua fraqueza.",
+        "autor": "Allan Kardec"
+    },
+    {
+        "id": 638,
+        "frase": "Todos os homens têm medo. Quem não tem medo não é normal; isso nada tem a ver com a coragem.",
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 639,
+        "frase": "A vida se contrai e se expande proporcionalmente à coragem do indivíduo.",
+        "autor": "Anaïs Nin"
+    },
+    {
+        "id": 640,
+        "frase": "A verdadeira coragem está em fazermos sem testemunha o que seríamos capazes de fazer diante de todo mundo.",
+        "autor": "François La Rochefoucauld"
+    },
+    {
+        "id": 641,
+        "frase": "Você ganha força, coragem e confiança através de cada experiência em que você realmente para e encara o medo de frente.",
+        "autor": "Eleanor Roosevelt"
+    },
+    {
+        "id": 642,
+        "frase": "O amor é uma bela flor à beira de um precipício. É necessário ter muita coragem para a ir colher.",
+        "autor": "Stendhal"
+    },
+    {
+        "id": 643,
+        "frase": "É preciso impor a si mesmo algumas metas para se ter a coragem de alcançá-las.",
+        "autor": "Benito Mussolini"
+    },
+    {
+        "id": 644,
+        "frase": "A maior prova de coragem é suportar as derrotas sem perder o ânimo.",
+        "autor": "Robert Ingersoll"
+    },
+    {
+        "id": 645,
+        "frase": "A coragem conduz às estrelas, e o medo à morte.",
+        "autor": "Sêneca"
+    },
+    {
+        "id": 646,
+        "frase": "A bravura provém do sangue, a coragem provém do pensamento.",
+        "autor": "Napoleão Bonaparte"
+    },
+    {
+        "id": 647,
+        "frase": "Aqueles que têm coragem para amar deveriam ter coragem para sofrer.",
+        "autor": "Anthony Trollope"
+    },
+    {
+        "id": 648,
+        "frase": "Frequentemente é necessário mais coragem para ousar fazer certo do que temer fazer errado.",
+        "autor": "Abraham Lincoln"
+    },
+    {
+        "id": 649,
+        "frase": "Eu não tenho nenhuma coragem, mas procedo como se a tivesse, o que talvez venha dar ao mesmo.",
+        "autor": "Gustave Flaubert"
+    },
+    {
+        "id": 650,
+        "frase": "Devemos construir diques de coragem para conter a correnteza do medo.",
+        "autor": "Martin Luther King"
+    },
+    {
+        "id": 651,
+        "frase": "Coragem é manter a classe sob pressão.",
+        "autor": "John Kennedy"
+    },
+    {
+        "id": 652,
+        "frase": "Nada inspira mais coragem ao medroso do que o medo alheio.",
+        "autor": "Umberto Eco"
+    },
+    {
+        "id": 653,
+        "frase": "A coragem significa um forte desejo de viver, sob a forma de disposição para morrer.",
+        "autor": "G. K. Chesterton"
+    },
+    {
+        "id": 654,
+        "frase": "Coragem... pequeno soldado do imenso exército. Os teus livros são as tuas armas, a tua classe é a tua esquadra, o campo de batalha é a terra inteira, e a vitória é a civilização humana.",
+        "autor": "Edmondo Amicis"
+    },
+    {
+        "id": 655,
+        "frase": "Muitos talentos se perdem por falta de um pouco de coragem.",
+        "autor": "Sydney Smith"
+    }
+]
