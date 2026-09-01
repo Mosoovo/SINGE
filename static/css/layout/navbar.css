@@ -68,6 +68,12 @@
 
 }
 
+.navbar-home {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+}
 /* Caixa de pesquisa */
 
 .search-box{
