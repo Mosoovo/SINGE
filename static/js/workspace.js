@@ -33,7 +33,33 @@ const homeContent = workspace.innerHTML;
         `;
 
     }
+    /*
+ * ==========================================
+ * FUNÇÃO: MÓDULO ATIVO NA SIDEBAR
+ * ==========================================
+ */
 
+function setActiveModule(menuGroup) {
+
+    document
+        .querySelectorAll(".sidebar .nav-item.active")
+        .forEach(item => {
+
+            item.classList.remove("active");
+
+        });
+
+    if (!menuGroup) return;
+
+    const navItem = menuGroup.querySelector(":scope > .nav-item");
+
+    if (navItem) {
+
+        navItem.classList.add("active");
+
+    }
+
+}
 
     /*
      * ==========================================
@@ -93,6 +119,7 @@ const homeContent = workspace.innerHTML;
             .filter(Boolean)
             .join(" > ");
 
+            setActiveModule(menuGroup);
 
             showWorkspacePage(item, path);
 
@@ -152,6 +179,9 @@ const homeContent = workspace.innerHTML;
 
             if (!moduleTitle) return;
 
+            const menuGroup = link.closest(".menu-group");
+
+            setActiveModule(menuGroup);
 
             showWorkspacePage(
                 moduleTitle,
@@ -191,6 +221,9 @@ const homeContent = workspace.innerHTML;
 
             if (!moduleTitle) return;
 
+            const menuGroup = link.closest(".menu-group");
+
+            setActiveModule(menuGroup);
 
             showWorkspacePage(
                 moduleTitle,
@@ -201,23 +234,92 @@ const homeContent = workspace.innerHTML;
 
     });
     /*
- * ==========================================
- * LOGO SINGE → HOME
- * ==========================================
- */
+    * ==========================================
+        * LOGO SINGE → HOME
+     * FUNÇÃO: RECOLHER SIDEBAR
+     * ==========================================
+     */
 
-const homeButton = document.getElementById("home-button");
+    function collapseSidebar() {
 
-if (homeButton) {
+        const sidebar = document.querySelector(".sidebar");
 
-    homeButton.addEventListener("click", (event) => {
+        if (!sidebar) return;
 
-        event.preventDefault();
 
-        workspace.innerHTML = homeContent;
+        /*
+         * Recolhe a Sidebar
+         */
 
-    });
+        sidebar.classList.remove("expanded");
+        sidebar.classList.add("collapsed");
 
-}
+
+        /*
+         * Fecha menus e submenus abertos
+         */
+
+        sidebar
+            .querySelectorAll(".open")
+            .forEach(element => {
+
+                element.classList.remove("open");
+
+            });
+
+    }
+
+
+    /*
+     * ==========================================
+     * LOGO SINGE → HOME
+     * ==========================================
+     */
+
+    const homeButton = document.getElementById("home-button");
+
+    if (homeButton) {
+
+        homeButton.addEventListener("click", (event) => {
+
+            event.preventDefault();
+
+
+            /*
+             * Restaura a Home
+             */
+
+            workspace.innerHTML = homeContent;
+
+            setActiveModule(null);
+
+            /*
+             * Recolhe a Sidebar
+             */
+
+            collapseSidebar();
+
+        });
+
+    }
+
+
+    /*
+     * ==========================================
+     * FOCO NA WORKSPACE
+     * ==========================================
+     */
+
+    const workspaceArea = document.querySelector(".workspace");
+
+    if (workspaceArea) {
+
+        workspaceArea.addEventListener("click", () => {
+
+            collapseSidebar();
+
+        });
+
+    }
 
 });

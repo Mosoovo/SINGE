@@ -136,7 +136,7 @@
 
 .nav-item.active .sidebar-indicator {
 
-    background: #00A878;
+    background: #00A878 !important;
 
 }
 
