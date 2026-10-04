@@ -1,0 +1,45 @@
+name: Deploy SINGE
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Atualizar SINGE
+        shell: bash
+        run: |
+          set -e
+          cd /home/singeadm/SINGE
+
+          git status --porcelain
+          test -z "$(git status --porcelain)"
+
+          git fetch origin main
+          git merge --ff-only origin/main
+
+      - name: Atualizar dependencias
+        shell: bash
+        run: |
+          set -e
+          cd /home/singeadm/SINGE
+          ./.venv/bin/python -m pip install -r requirements.txt
+
+      - name: Reiniciar SINGE
+        shell: bash
+        run: |
+          set -e
+          sudo /usr/bin/systemctl restart singe.service
+          sudo /usr/bin/systemctl is-active singe.service
+
+      - name: Testar aplicacao
+        shell: bash
+        run: |
+          set -e
+          sleep 2
+          curl --fail --silent --show-error http://127.0.0.1:5000/ > /dev/null
+          echo "SINGE respondeu corretamente."
