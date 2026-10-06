@@ -1,0 +1,24 @@
+.home-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) max-content;
+    gap: 16px;
+    width: 100%;
+}
+
+.home-main {
+    grid-column: 1;
+    display: grid;
+    min-width: 0;
+}
+
+.home-sidebar {
+    grid-column: 2;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+    gap: 16px;
+
+    min-width: 0;
+}

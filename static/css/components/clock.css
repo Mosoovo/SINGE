@@ -6,13 +6,12 @@
 digital-clock {
 
     /* Posição na Home */
-    grid-column: 10 / 13;
-    justify-self: end;
-    align-self: start;
+    min-width: 360px;
 
     /* Organização interna */
     display: grid;
     grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
 
     /* Visual original */
     background-color: #242625;
@@ -27,6 +26,7 @@ digital-clock {
         sans-serif-condensed,
         sans-serif;
 
+    font-size: 1rem;
     padding: 1em 2em;
 }
 

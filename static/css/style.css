@@ -24,9 +24,11 @@
 @import url("components/indicator.css");
 @import url("components/tooltip.css");
 @import url("components/clock.css");
+@import url("components/daily-quote.css");
 
 /* ==========================
    PAGES
 ========================== */
 
 @import url("pages/dashboard.css");
+@import url("pages/home.css");

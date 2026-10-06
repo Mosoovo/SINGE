@@ -1,0 +1,36 @@
+daily-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 09px 28px;
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    color: #374151;
+    font-family: Inter, sans-serif;
+}
+
+.daily-quote-title {
+    margin: 0 0 12px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+}
+
+.daily-quote-figure,
+.daily-quote-text {
+    margin: 0;
+}
+
+.daily-quote-text {
+    font-size: 1.35rem;
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+}
+
+.daily-quote-author {
+    margin-top: 16px;
+    color: #6b7280;
+    font-size: 0.95rem;
+    text-align: right;
+}

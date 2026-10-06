@@ -8,18 +8,26 @@
 
         <section class="home-grid">
 
-           <digital-clock
-             label="Itaperuna"
-             lang="pt-BR"
-             date="short"
-             timezone="-3"
-             time="short">
-            </digital-clock>
+            <div class="home-main">
+                <daily-quote data-source="{{ url_for('static', filename='design-system/frases.txt') }}"></daily-quote>
+            </div>
+
+            <div class="home-sidebar">
+                <digital-clock
+                    label="Itaperuna"
+                    lang="pt-BR"
+                    date="short"
+                    timezone="-3"
+                    time="short">
+                </digital-clock>
+            </div>
 
         </section>
 
     </div>
 
 </main>
+
+<script src="{{ url_for('static', filename='js/components/daily-quote.js') }}" defer></script>
 
 {% endblock %}

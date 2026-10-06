@@ -1828,11 +1828,11 @@
     "id" : 366,
     "autor" : "Henry Ford",
     "frase" : "O insucesso é uma oportunidade para recomeçar com mais inteligência"
-  }
+  },
   {
         "id": 367,
         "frase": "Sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
-        " autor ": "Winston Churchill"
+        "autor": "Winston Churchill"
     },
     {
         "id": 368,
